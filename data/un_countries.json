@@ -1,0 +1,1739 @@
+{
+  "AF": {
+    "country_name": "Afghanistan",
+    "official_state_name": "The Islamic Republic of Afghanistan",
+    "wiki_link": "https://en.wikipedia.org/wiki/Afghanistan",
+    "alpha2": "AF",
+    "alpha3": "AFG",
+    "numeric": "004",
+    "top_level_domain": "af\n"
+  },
+  "AL": {
+    "country_name": "Albania",
+    "official_state_name": "The Republic of Albania",
+    "wiki_link": "https://en.wikipedia.org/wiki/Albania",
+    "alpha2": "AL",
+    "alpha3": "ALB",
+    "numeric": "008",
+    "top_level_domain": "al\n"
+  },
+  "DZ": {
+    "country_name": "Algeria",
+    "official_state_name": "The People's Democratic Republic of Algeria",
+    "wiki_link": "https://en.wikipedia.org/wiki/Algeria",
+    "alpha2": "DZ",
+    "alpha3": "DZA",
+    "numeric": "012",
+    "top_level_domain": "dz\n"
+  },
+  "AD": {
+    "country_name": "Andorra",
+    "official_state_name": "The Principality of Andorra",
+    "wiki_link": "https://en.wikipedia.org/wiki/Andorra",
+    "alpha2": "AD",
+    "alpha3": "AND",
+    "numeric": "020",
+    "top_level_domain": "ad\n"
+  },
+  "AO": {
+    "country_name": "Angola",
+    "official_state_name": "The Republic of Angola",
+    "wiki_link": "https://en.wikipedia.org/wiki/Angola",
+    "alpha2": "AO",
+    "alpha3": "AGO",
+    "numeric": "024",
+    "top_level_domain": "ao\n"
+  },
+  "AG": {
+    "country_name": "Antigua and Barbuda",
+    "official_state_name": "Antigua and Barbuda",
+    "wiki_link": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
+    "alpha2": "AG",
+    "alpha3": "ATG",
+    "numeric": "028",
+    "top_level_domain": "ag\n"
+  },
+  "AR": {
+    "country_name": "Argentina",
+    "official_state_name": "The Argentine Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Argentina",
+    "alpha2": "AR",
+    "alpha3": "ARG",
+    "numeric": "032",
+    "top_level_domain": "ar\n"
+  },
+  "AM": {
+    "country_name": "Armenia",
+    "official_state_name": "The Republic of Armenia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Armenia",
+    "alpha2": "AM",
+    "alpha3": "ARM",
+    "numeric": "051",
+    "top_level_domain": "am\n"
+  },
+  "AU": {
+    "country_name": "Australia",
+    "official_state_name": "The Commonwealth of Australia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Australia",
+    "alpha2": "AU",
+    "alpha3": "AUS",
+    "numeric": "036",
+    "top_level_domain": "au\n"
+  },
+  "AT": {
+    "country_name": "Austria",
+    "official_state_name": "The Republic of Austria",
+    "wiki_link": "https://en.wikipedia.org/wiki/Austria",
+    "alpha2": "AT",
+    "alpha3": "AUT",
+    "numeric": "040",
+    "top_level_domain": "at\n"
+  },
+  "AZ": {
+    "country_name": "Azerbaijan",
+    "official_state_name": "The Republic of Azerbaijan",
+    "wiki_link": "https://en.wikipedia.org/wiki/Azerbaijan",
+    "alpha2": "AZ",
+    "alpha3": "AZE",
+    "numeric": "031",
+    "top_level_domain": "az\n"
+  },
+  "BS": {
+    "country_name": "Bahamas (the)",
+    "official_state_name": "The Commonwealth of The Bahamas",
+    "wiki_link": "https://en.wikipedia.org/wiki/The_Bahamas",
+    "alpha2": "BS",
+    "alpha3": "BHS",
+    "numeric": "044",
+    "top_level_domain": "bs\n"
+  },
+  "BH": {
+    "country_name": "Bahrain",
+    "official_state_name": "The Kingdom of Bahrain",
+    "wiki_link": "https://en.wikipedia.org/wiki/Bahrain",
+    "alpha2": "BH",
+    "alpha3": "BHR",
+    "numeric": "048",
+    "top_level_domain": "bh\n"
+  },
+  "BD": {
+    "country_name": "Bangladesh",
+    "official_state_name": "The People's Republic of Bangladesh",
+    "wiki_link": "https://en.wikipedia.org/wiki/Bangladesh",
+    "alpha2": "BD",
+    "alpha3": "BGD",
+    "numeric": "050",
+    "top_level_domain": "bd\n"
+  },
+  "BB": {
+    "country_name": "Barbados",
+    "official_state_name": "Barbados",
+    "wiki_link": "https://en.wikipedia.org/wiki/Barbados",
+    "alpha2": "BB",
+    "alpha3": "BRB",
+    "numeric": "052",
+    "top_level_domain": "bb\n"
+  },
+  "BY": {
+    "country_name": "Belarus",
+    "official_state_name": "The Republic of Belarus",
+    "wiki_link": "https://en.wikipedia.org/wiki/Belarus",
+    "alpha2": "BY",
+    "alpha3": "BLR",
+    "numeric": "112",
+    "top_level_domain": "by\n"
+  },
+  "BE": {
+    "country_name": "Belgium",
+    "official_state_name": "The Kingdom of Belgium",
+    "wiki_link": "https://en.wikipedia.org/wiki/Belgium",
+    "alpha2": "BE",
+    "alpha3": "BEL",
+    "numeric": "056",
+    "top_level_domain": "be\n"
+  },
+  "BZ": {
+    "country_name": "Belize",
+    "official_state_name": "Belize",
+    "wiki_link": "https://en.wikipedia.org/wiki/Belize",
+    "alpha2": "BZ",
+    "alpha3": "BLZ",
+    "numeric": "084",
+    "top_level_domain": "bz\n"
+  },
+  "BJ": {
+    "country_name": "Benin",
+    "official_state_name": "The Republic of Benin",
+    "wiki_link": "https://en.wikipedia.org/wiki/Benin",
+    "alpha2": "BJ",
+    "alpha3": "BEN",
+    "numeric": "204",
+    "top_level_domain": "bj\n"
+  },
+  "BT": {
+    "country_name": "Bhutan",
+    "official_state_name": "The Kingdom of Bhutan",
+    "wiki_link": "https://en.wikipedia.org/wiki/Bhutan",
+    "alpha2": "BT",
+    "alpha3": "BTN",
+    "numeric": "064",
+    "top_level_domain": "bt\n"
+  },
+  "BO": {
+    "country_name": "Bolivia (Plurinational State of)",
+    "official_state_name": "The Plurinational State of Bolivia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Bolivia",
+    "alpha2": "BO",
+    "alpha3": "BOL",
+    "numeric": "068",
+    "top_level_domain": "bo\n"
+  },
+  "BA": {
+    "country_name": "Bosnia and Herzegovina",
+    "official_state_name": "Bosnia and Herzegovina",
+    "wiki_link": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+    "alpha2": "BA",
+    "alpha3": "BIH",
+    "numeric": "070",
+    "top_level_domain": "ba\n"
+  },
+  "BW": {
+    "country_name": "Botswana",
+    "official_state_name": "The Republic of Botswana",
+    "wiki_link": "https://en.wikipedia.org/wiki/Botswana",
+    "alpha2": "BW",
+    "alpha3": "BWA",
+    "numeric": "072",
+    "top_level_domain": "bw\n"
+  },
+  "BR": {
+    "country_name": "Brazil",
+    "official_state_name": "The Federative Republic of Brazil",
+    "wiki_link": "https://en.wikipedia.org/wiki/Brazil",
+    "alpha2": "BR",
+    "alpha3": "BRA",
+    "numeric": "076",
+    "top_level_domain": "br\n"
+  },
+  "BN": {
+    "country_name": "Brunei Darussalam",
+    "official_state_name": "The Nation of Brunei, the Abode of Peace",
+    "wiki_link": "https://en.wikipedia.org/wiki/Brunei",
+    "alpha2": "BN",
+    "alpha3": "BRN",
+    "numeric": "096",
+    "top_level_domain": "bn\n"
+  },
+  "BG": {
+    "country_name": "Bulgaria",
+    "official_state_name": "The Republic of Bulgaria",
+    "wiki_link": "https://en.wikipedia.org/wiki/Bulgaria",
+    "alpha2": "BG",
+    "alpha3": "BGR",
+    "numeric": "100",
+    "top_level_domain": "bg\n"
+  },
+  "BF": {
+    "country_name": "Burkina Faso",
+    "official_state_name": "Burkina Faso",
+    "wiki_link": "https://en.wikipedia.org/wiki/Burkina_Faso",
+    "alpha2": "BF",
+    "alpha3": "BFA",
+    "numeric": "854",
+    "top_level_domain": "bf\n"
+  },
+  "BI": {
+    "country_name": "Burundi",
+    "official_state_name": "The Republic of Burundi",
+    "wiki_link": "https://en.wikipedia.org/wiki/Burundi",
+    "alpha2": "BI",
+    "alpha3": "BDI",
+    "numeric": "108",
+    "top_level_domain": "bi\n"
+  },
+  "CV": {
+    "country_name": "Cabo Verde",
+    "official_state_name": "The Republic of Cabo Verde",
+    "wiki_link": "https://en.wikipedia.org/wiki/Cape_Verde",
+    "alpha2": "CV",
+    "alpha3": "CPV",
+    "numeric": "132",
+    "top_level_domain": "cv\n"
+  },
+  "KH": {
+    "country_name": "Cambodia",
+    "official_state_name": "The Kingdom of Cambodia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Cambodia",
+    "alpha2": "KH",
+    "alpha3": "KHM",
+    "numeric": "116",
+    "top_level_domain": "kh\n"
+  },
+  "CM": {
+    "country_name": "Cameroon",
+    "official_state_name": "The Republic of Cameroon",
+    "wiki_link": "https://en.wikipedia.org/wiki/Cameroon",
+    "alpha2": "CM",
+    "alpha3": "CMR",
+    "numeric": "120",
+    "top_level_domain": "cm\n"
+  },
+  "CA": {
+    "country_name": "Canada",
+    "official_state_name": "Canada",
+    "wiki_link": "https://en.wikipedia.org/wiki/Canada",
+    "alpha2": "CA",
+    "alpha3": "CAN",
+    "numeric": "124",
+    "top_level_domain": "ca\n"
+  },
+  "CF": {
+    "country_name": "Central African Republic (the)",
+    "official_state_name": "The Central African Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Central_African_Republic",
+    "alpha2": "CF",
+    "alpha3": "CAF",
+    "numeric": "140",
+    "top_level_domain": "cf\n"
+  },
+  "TD": {
+    "country_name": "Chad",
+    "official_state_name": "The Republic of Chad",
+    "wiki_link": "https://en.wikipedia.org/wiki/Chad",
+    "alpha2": "TD",
+    "alpha3": "TCD",
+    "numeric": "148",
+    "top_level_domain": "td\n"
+  },
+  "CL": {
+    "country_name": "Chile",
+    "official_state_name": "The Republic of Chile",
+    "wiki_link": "https://en.wikipedia.org/wiki/Chile",
+    "alpha2": "CL",
+    "alpha3": "CHL",
+    "numeric": "152",
+    "top_level_domain": "cl\n"
+  },
+  "CN": {
+    "country_name": "China",
+    "official_state_name": "The People's Republic of China",
+    "wiki_link": "https://en.wikipedia.org/wiki/China",
+    "alpha2": "CN",
+    "alpha3": "CHN",
+    "numeric": "156",
+    "top_level_domain": "cn\n"
+  },
+  "CO": {
+    "country_name": "Colombia",
+    "official_state_name": "The Republic of Colombia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Colombia",
+    "alpha2": "CO",
+    "alpha3": "COL",
+    "numeric": "170",
+    "top_level_domain": "co\n"
+  },
+  "KM": {
+    "country_name": "Comoros (the)",
+    "official_state_name": "The Union of the Comoros",
+    "wiki_link": "https://en.wikipedia.org/wiki/Comoros",
+    "alpha2": "KM",
+    "alpha3": "COM",
+    "numeric": "174",
+    "top_level_domain": "km\n"
+  },
+  "CD": {
+    "country_name": "Congo (the Democratic Republic of the)",
+    "official_state_name": "The Democratic Republic of the Congo",
+    "wiki_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+    "alpha2": "CD",
+    "alpha3": "COD",
+    "numeric": "180",
+    "top_level_domain": "cd\n"
+  },
+  "CG": {
+    "country_name": "Congo (the)",
+    "official_state_name": "The Republic of the Congo",
+    "wiki_link": "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
+    "alpha2": "CG",
+    "alpha3": "COG",
+    "numeric": "178",
+    "top_level_domain": "cg\n"
+  },
+  "CR": {
+    "country_name": "Costa Rica",
+    "official_state_name": "The Republic of Costa Rica",
+    "wiki_link": "https://en.wikipedia.org/wiki/Costa_Rica",
+    "alpha2": "CR",
+    "alpha3": "CRI",
+    "numeric": "188",
+    "top_level_domain": "cr\n"
+  },
+  "CI": {
+    "country_name": "C\u00f4te d'Ivoire",
+    "official_state_name": "The Republic of C\u00f4te d'Ivoire",
+    "wiki_link": "https://en.wikipedia.org/wiki/Ivory_Coast",
+    "alpha2": "CI",
+    "alpha3": "CIV",
+    "numeric": "384",
+    "top_level_domain": "ci\n"
+  },
+  "HR": {
+    "country_name": "Croatia",
+    "official_state_name": "The Republic of Croatia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Croatia",
+    "alpha2": "HR",
+    "alpha3": "HRV",
+    "numeric": "191",
+    "top_level_domain": "hr\n"
+  },
+  "CU": {
+    "country_name": "Cuba",
+    "official_state_name": "The Republic of Cuba",
+    "wiki_link": "https://en.wikipedia.org/wiki/Cuba",
+    "alpha2": "CU",
+    "alpha3": "CUB",
+    "numeric": "192",
+    "top_level_domain": "cu\n"
+  },
+  "CY": {
+    "country_name": "Cyprus",
+    "official_state_name": "The Republic of Cyprus",
+    "wiki_link": "https://en.wikipedia.org/wiki/Cyprus",
+    "alpha2": "CY",
+    "alpha3": "CYP",
+    "numeric": "196",
+    "top_level_domain": "cy\n"
+  },
+  "CZ": {
+    "country_name": "Czechia",
+    "official_state_name": "The Czech Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+    "alpha2": "CZ",
+    "alpha3": "CZE",
+    "numeric": "203",
+    "top_level_domain": "cz\n"
+  },
+  "DK": {
+    "country_name": "Denmark",
+    "official_state_name": "The Kingdom of Denmark",
+    "wiki_link": "https://en.wikipedia.org/wiki/Denmark",
+    "alpha2": "DK",
+    "alpha3": "DNK",
+    "numeric": "208",
+    "top_level_domain": "dk\n"
+  },
+  "DJ": {
+    "country_name": "Djibouti",
+    "official_state_name": "The Republic of Djibouti",
+    "wiki_link": "https://en.wikipedia.org/wiki/Djibouti",
+    "alpha2": "DJ",
+    "alpha3": "DJI",
+    "numeric": "262",
+    "top_level_domain": "dj\n"
+  },
+  "DM": {
+    "country_name": "Dominica",
+    "official_state_name": "The Commonwealth of Dominica",
+    "wiki_link": "https://en.wikipedia.org/wiki/Dominica",
+    "alpha2": "DM",
+    "alpha3": "DMA",
+    "numeric": "212",
+    "top_level_domain": "dm\n"
+  },
+  "DO": {
+    "country_name": "Dominican Republic (the)",
+    "official_state_name": "The Dominican Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Dominican_Republic",
+    "alpha2": "DO",
+    "alpha3": "DOM",
+    "numeric": "214",
+    "top_level_domain": "do\n"
+  },
+  "EC": {
+    "country_name": "Ecuador",
+    "official_state_name": "The Republic of Ecuador",
+    "wiki_link": "https://en.wikipedia.org/wiki/Ecuador",
+    "alpha2": "EC",
+    "alpha3": "ECU",
+    "numeric": "218",
+    "top_level_domain": "ec\n"
+  },
+  "EG": {
+    "country_name": "Egypt",
+    "official_state_name": "The Arab Republic of Egypt",
+    "wiki_link": "https://en.wikipedia.org/wiki/Egypt",
+    "alpha2": "EG",
+    "alpha3": "EGY",
+    "numeric": "818",
+    "top_level_domain": "eg\n"
+  },
+  "SV": {
+    "country_name": "El Salvador",
+    "official_state_name": "The Republic of El Salvador",
+    "wiki_link": "https://en.wikipedia.org/wiki/El_Salvador",
+    "alpha2": "SV",
+    "alpha3": "SLV",
+    "numeric": "222",
+    "top_level_domain": "sv\n"
+  },
+  "GQ": {
+    "country_name": "Equatorial Guinea",
+    "official_state_name": "The Republic of Equatorial Guinea",
+    "wiki_link": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
+    "alpha2": "GQ",
+    "alpha3": "GNQ",
+    "numeric": "226",
+    "top_level_domain": "gq\n"
+  },
+  "ER": {
+    "country_name": "Eritrea",
+    "official_state_name": "The State of Eritrea",
+    "wiki_link": "https://en.wikipedia.org/wiki/Eritrea",
+    "alpha2": "ER",
+    "alpha3": "ERI",
+    "numeric": "232",
+    "top_level_domain": "er\n"
+  },
+  "EE": {
+    "country_name": "Estonia",
+    "official_state_name": "The Republic of Estonia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Estonia",
+    "alpha2": "EE",
+    "alpha3": "EST",
+    "numeric": "233",
+    "top_level_domain": "ee\n"
+  },
+  "SZ": {
+    "country_name": "Eswatini",
+    "official_state_name": "The Kingdom of Eswatini",
+    "wiki_link": "https://en.wikipedia.org/wiki/Eswatini",
+    "alpha2": "SZ",
+    "alpha3": "SWZ",
+    "numeric": "748",
+    "top_level_domain": "sz\n"
+  },
+  "ET": {
+    "country_name": "Ethiopia",
+    "official_state_name": "The Federal Democratic Republic of Ethiopia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Ethiopia",
+    "alpha2": "ET",
+    "alpha3": "ETH",
+    "numeric": "231",
+    "top_level_domain": "et\n"
+  },
+  "FJ": {
+    "country_name": "Fiji",
+    "official_state_name": "The Republic of Fiji",
+    "wiki_link": "https://en.wikipedia.org/wiki/Fiji",
+    "alpha2": "FJ",
+    "alpha3": "FJI",
+    "numeric": "242",
+    "top_level_domain": "fj\n"
+  },
+  "FI": {
+    "country_name": "Finland",
+    "official_state_name": "The Republic of Finland",
+    "wiki_link": "https://en.wikipedia.org/wiki/Finland",
+    "alpha2": "FI",
+    "alpha3": "FIN",
+    "numeric": "246",
+    "top_level_domain": "fi\n"
+  },
+  "FR": {
+    "country_name": "France",
+    "official_state_name": "The French Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/France",
+    "alpha2": "FR",
+    "alpha3": "FRA",
+    "numeric": "250",
+    "top_level_domain": "fr\n"
+  },
+  "GA": {
+    "country_name": "Gabon",
+    "official_state_name": "The Gabonese Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Gabon",
+    "alpha2": "GA",
+    "alpha3": "GAB",
+    "numeric": "266",
+    "top_level_domain": "ga\n"
+  },
+  "GM": {
+    "country_name": "Gambia (the)",
+    "official_state_name": "The Republic of The Gambia",
+    "wiki_link": "https://en.wikipedia.org/wiki/The_Gambia",
+    "alpha2": "GM",
+    "alpha3": "GMB",
+    "numeric": "270",
+    "top_level_domain": "gm\n"
+  },
+  "GE": {
+    "country_name": "Georgia",
+    "official_state_name": "Georgia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Georgia_(country)",
+    "alpha2": "GE",
+    "alpha3": "GEO",
+    "numeric": "268",
+    "top_level_domain": "ge\n"
+  },
+  "DE": {
+    "country_name": "Germany",
+    "official_state_name": "The Federal Republic of Germany",
+    "wiki_link": "https://en.wikipedia.org/wiki/Germany",
+    "alpha2": "DE",
+    "alpha3": "DEU",
+    "numeric": "276",
+    "top_level_domain": "de\n"
+  },
+  "GH": {
+    "country_name": "Ghana",
+    "official_state_name": "The Republic of Ghana",
+    "wiki_link": "https://en.wikipedia.org/wiki/Ghana",
+    "alpha2": "GH",
+    "alpha3": "GHA",
+    "numeric": "288",
+    "top_level_domain": "gh\n"
+  },
+  "GR": {
+    "country_name": "Greece",
+    "official_state_name": "The Hellenic Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Greece",
+    "alpha2": "GR",
+    "alpha3": "GRC",
+    "numeric": "300",
+    "top_level_domain": "gr\n"
+  },
+  "GD": {
+    "country_name": "Grenada",
+    "official_state_name": "Grenada",
+    "wiki_link": "https://en.wikipedia.org/wiki/Grenada",
+    "alpha2": "GD",
+    "alpha3": "GRD",
+    "numeric": "308",
+    "top_level_domain": "gd\n"
+  },
+  "GT": {
+    "country_name": "Guatemala",
+    "official_state_name": "The Republic of Guatemala",
+    "wiki_link": "https://en.wikipedia.org/wiki/Guatemala",
+    "alpha2": "GT",
+    "alpha3": "GTM",
+    "numeric": "320",
+    "top_level_domain": "gt\n"
+  },
+  "GN": {
+    "country_name": "Guinea",
+    "official_state_name": "The Republic of Guinea",
+    "wiki_link": "https://en.wikipedia.org/wiki/Guinea",
+    "alpha2": "GN",
+    "alpha3": "GIN",
+    "numeric": "324",
+    "top_level_domain": "gn\n"
+  },
+  "GW": {
+    "country_name": "Guinea-Bissau",
+    "official_state_name": "The Republic of Guinea-Bissau",
+    "wiki_link": "https://en.wikipedia.org/wiki/Guinea-Bissau",
+    "alpha2": "GW",
+    "alpha3": "GNB",
+    "numeric": "624",
+    "top_level_domain": "gw\n"
+  },
+  "GY": {
+    "country_name": "Guyana",
+    "official_state_name": "The Co-operative Republic of Guyana",
+    "wiki_link": "https://en.wikipedia.org/wiki/Guyana",
+    "alpha2": "GY",
+    "alpha3": "GUY",
+    "numeric": "328",
+    "top_level_domain": "gy\n"
+  },
+  "HT": {
+    "country_name": "Haiti",
+    "official_state_name": "The Republic of Haiti",
+    "wiki_link": "https://en.wikipedia.org/wiki/Haiti",
+    "alpha2": "HT",
+    "alpha3": "HTI",
+    "numeric": "332",
+    "top_level_domain": "ht\n"
+  },
+  "HN": {
+    "country_name": "Honduras",
+    "official_state_name": "The Republic of Honduras",
+    "wiki_link": "https://en.wikipedia.org/wiki/Honduras",
+    "alpha2": "HN",
+    "alpha3": "HND",
+    "numeric": "340",
+    "top_level_domain": "hn\n"
+  },
+  "HU": {
+    "country_name": "Hungary",
+    "official_state_name": "Hungary",
+    "wiki_link": "https://en.wikipedia.org/wiki/Hungary",
+    "alpha2": "HU",
+    "alpha3": "HUN",
+    "numeric": "348",
+    "top_level_domain": "hu\n"
+  },
+  "IS": {
+    "country_name": "Iceland",
+    "official_state_name": "Iceland",
+    "wiki_link": "https://en.wikipedia.org/wiki/Iceland",
+    "alpha2": "IS",
+    "alpha3": "ISL",
+    "numeric": "352",
+    "top_level_domain": "is\n"
+  },
+  "IN": {
+    "country_name": "India",
+    "official_state_name": "The Republic of India",
+    "wiki_link": "https://en.wikipedia.org/wiki/India",
+    "alpha2": "IN",
+    "alpha3": "IND",
+    "numeric": "356",
+    "top_level_domain": "in\n"
+  },
+  "ID": {
+    "country_name": "Indonesia",
+    "official_state_name": "The Republic of Indonesia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Indonesia",
+    "alpha2": "ID",
+    "alpha3": "IDN",
+    "numeric": "360",
+    "top_level_domain": "id\n"
+  },
+  "IR": {
+    "country_name": "Iran (Islamic Republic of)",
+    "official_state_name": "The Islamic Republic of Iran",
+    "wiki_link": "https://en.wikipedia.org/wiki/Iran",
+    "alpha2": "IR",
+    "alpha3": "IRN",
+    "numeric": "364",
+    "top_level_domain": "ir\n"
+  },
+  "IQ": {
+    "country_name": "Iraq",
+    "official_state_name": "The Republic of Iraq",
+    "wiki_link": "https://en.wikipedia.org/wiki/Iraq",
+    "alpha2": "IQ",
+    "alpha3": "IRQ",
+    "numeric": "368",
+    "top_level_domain": "iq\n"
+  },
+  "IE": {
+    "country_name": "Ireland",
+    "official_state_name": "Ireland",
+    "wiki_link": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+    "alpha2": "IE",
+    "alpha3": "IRL",
+    "numeric": "372",
+    "top_level_domain": "ie\n"
+  },
+  "IL": {
+    "country_name": "Israel",
+    "official_state_name": "The State of Israel",
+    "wiki_link": "https://en.wikipedia.org/wiki/Israel",
+    "alpha2": "IL",
+    "alpha3": "ISR",
+    "numeric": "376",
+    "top_level_domain": "il\n"
+  },
+  "IT": {
+    "country_name": "Italy",
+    "official_state_name": "The Italian Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Italy",
+    "alpha2": "IT",
+    "alpha3": "ITA",
+    "numeric": "380",
+    "top_level_domain": "it\n"
+  },
+  "JM": {
+    "country_name": "Jamaica",
+    "official_state_name": "Jamaica",
+    "wiki_link": "https://en.wikipedia.org/wiki/Jamaica",
+    "alpha2": "JM",
+    "alpha3": "JAM",
+    "numeric": "388",
+    "top_level_domain": "jm\n"
+  },
+  "JP": {
+    "country_name": "Japan",
+    "official_state_name": "Japan",
+    "wiki_link": "https://en.wikipedia.org/wiki/Japan",
+    "alpha2": "JP",
+    "alpha3": "JPN",
+    "numeric": "392",
+    "top_level_domain": "jp\n"
+  },
+  "JO": {
+    "country_name": "Jordan",
+    "official_state_name": "The Hashemite Kingdom of Jordan",
+    "wiki_link": "https://en.wikipedia.org/wiki/Jordan",
+    "alpha2": "JO",
+    "alpha3": "JOR",
+    "numeric": "400",
+    "top_level_domain": "jo\n"
+  },
+  "KZ": {
+    "country_name": "Kazakhstan",
+    "official_state_name": "The Republic of Kazakhstan",
+    "wiki_link": "https://en.wikipedia.org/wiki/Kazakhstan",
+    "alpha2": "KZ",
+    "alpha3": "KAZ",
+    "numeric": "398",
+    "top_level_domain": "kz\n"
+  },
+  "KE": {
+    "country_name": "Kenya",
+    "official_state_name": "The Republic of Kenya",
+    "wiki_link": "https://en.wikipedia.org/wiki/Kenya",
+    "alpha2": "KE",
+    "alpha3": "KEN",
+    "numeric": "404",
+    "top_level_domain": "ke\n"
+  },
+  "KI": {
+    "country_name": "Kiribati",
+    "official_state_name": "The Republic of Kiribati",
+    "wiki_link": "https://en.wikipedia.org/wiki/Kiribati",
+    "alpha2": "KI",
+    "alpha3": "KIR",
+    "numeric": "296",
+    "top_level_domain": "ki\n"
+  },
+  "KP": {
+    "country_name": "Korea (the Democratic People's Republic of)",
+    "official_state_name": "The Democratic People's Republic of Korea",
+    "wiki_link": "https://en.wikipedia.org/wiki/North_Korea",
+    "alpha2": "KP",
+    "alpha3": "PRK",
+    "numeric": "408",
+    "top_level_domain": "kp\n"
+  },
+  "KR": {
+    "country_name": "Korea (the Republic of)",
+    "official_state_name": "The Republic of Korea",
+    "wiki_link": "https://en.wikipedia.org/wiki/South_Korea",
+    "alpha2": "KR",
+    "alpha3": "KOR",
+    "numeric": "410",
+    "top_level_domain": "kr\n"
+  },
+  "KW": {
+    "country_name": "Kuwait",
+    "official_state_name": "The State of Kuwait",
+    "wiki_link": "https://en.wikipedia.org/wiki/Kuwait",
+    "alpha2": "KW",
+    "alpha3": "KWT",
+    "numeric": "414",
+    "top_level_domain": "kw\n"
+  },
+  "KG": {
+    "country_name": "Kyrgyzstan",
+    "official_state_name": "The Kyrgyz Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+    "alpha2": "KG",
+    "alpha3": "KGZ",
+    "numeric": "417",
+    "top_level_domain": "kg\n"
+  },
+  "LA": {
+    "country_name": "Lao People's Democratic Republic (the)",
+    "official_state_name": "The Lao People's Democratic Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Laos",
+    "alpha2": "LA",
+    "alpha3": "LAO",
+    "numeric": "418",
+    "top_level_domain": "la\n"
+  },
+  "LV": {
+    "country_name": "Latvia",
+    "official_state_name": "The Republic of Latvia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Latvia",
+    "alpha2": "LV",
+    "alpha3": "LVA",
+    "numeric": "428",
+    "top_level_domain": "lv\n"
+  },
+  "LB": {
+    "country_name": "Lebanon",
+    "official_state_name": "The Lebanese Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Lebanon",
+    "alpha2": "LB",
+    "alpha3": "LBN",
+    "numeric": "422",
+    "top_level_domain": "lb\n"
+  },
+  "LS": {
+    "country_name": "Lesotho",
+    "official_state_name": "The Kingdom of Lesotho",
+    "wiki_link": "https://en.wikipedia.org/wiki/Lesotho",
+    "alpha2": "LS",
+    "alpha3": "LSO",
+    "numeric": "426",
+    "top_level_domain": "ls\n"
+  },
+  "LR": {
+    "country_name": "Liberia",
+    "official_state_name": "The Republic of Liberia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Liberia",
+    "alpha2": "LR",
+    "alpha3": "LBR",
+    "numeric": "430",
+    "top_level_domain": "lr\n"
+  },
+  "LY": {
+    "country_name": "Libya",
+    "official_state_name": "The State of Libya",
+    "wiki_link": "https://en.wikipedia.org/wiki/Libya",
+    "alpha2": "LY",
+    "alpha3": "LBY",
+    "numeric": "434",
+    "top_level_domain": "ly\n"
+  },
+  "LI": {
+    "country_name": "Liechtenstein",
+    "official_state_name": "The Principality of Liechtenstein",
+    "wiki_link": "https://en.wikipedia.org/wiki/Liechtenstein",
+    "alpha2": "LI",
+    "alpha3": "LIE",
+    "numeric": "438",
+    "top_level_domain": "li\n"
+  },
+  "LT": {
+    "country_name": "Lithuania",
+    "official_state_name": "The Republic of Lithuania",
+    "wiki_link": "https://en.wikipedia.org/wiki/Lithuania",
+    "alpha2": "LT",
+    "alpha3": "LTU",
+    "numeric": "440",
+    "top_level_domain": "lt\n"
+  },
+  "LU": {
+    "country_name": "Luxembourg",
+    "official_state_name": "The Grand Duchy of Luxembourg",
+    "wiki_link": "https://en.wikipedia.org/wiki/Luxembourg",
+    "alpha2": "LU",
+    "alpha3": "LUX",
+    "numeric": "442",
+    "top_level_domain": "lu\n"
+  },
+  "MK": {
+    "country_name": "North Macedonia",
+    "official_state_name": "Republic of North Macedonia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Republic_of_North_Macedonia",
+    "alpha2": "MK",
+    "alpha3": "MKD",
+    "numeric": "807",
+    "top_level_domain": "mk\n"
+  },
+  "MG": {
+    "country_name": "Madagascar",
+    "official_state_name": "The Republic of Madagascar",
+    "wiki_link": "https://en.wikipedia.org/wiki/Madagascar",
+    "alpha2": "MG",
+    "alpha3": "MDG",
+    "numeric": "450",
+    "top_level_domain": "mg\n"
+  },
+  "MW": {
+    "country_name": "Malawi",
+    "official_state_name": "The Republic of Malawi",
+    "wiki_link": "https://en.wikipedia.org/wiki/Malawi",
+    "alpha2": "MW",
+    "alpha3": "MWI",
+    "numeric": "454",
+    "top_level_domain": "mw\n"
+  },
+  "MY": {
+    "country_name": "Malaysia",
+    "official_state_name": "Malaysia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Malaysia",
+    "alpha2": "MY",
+    "alpha3": "MYS",
+    "numeric": "458",
+    "top_level_domain": "my\n"
+  },
+  "MV": {
+    "country_name": "Maldives",
+    "official_state_name": "The Republic of Maldives",
+    "wiki_link": "https://en.wikipedia.org/wiki/Maldives",
+    "alpha2": "MV",
+    "alpha3": "MDV",
+    "numeric": "462",
+    "top_level_domain": "mv\n"
+  },
+  "ML": {
+    "country_name": "Mali",
+    "official_state_name": "The Republic of Mali",
+    "wiki_link": "https://en.wikipedia.org/wiki/Mali",
+    "alpha2": "ML",
+    "alpha3": "MLI",
+    "numeric": "466",
+    "top_level_domain": "ml\n"
+  },
+  "MT": {
+    "country_name": "Malta",
+    "official_state_name": "The Republic of Malta",
+    "wiki_link": "https://en.wikipedia.org/wiki/Malta",
+    "alpha2": "MT",
+    "alpha3": "MLT",
+    "numeric": "470",
+    "top_level_domain": "mt\n"
+  },
+  "MH": {
+    "country_name": "Marshall Islands (the)",
+    "official_state_name": "The Republic of the Marshall Islands",
+    "wiki_link": "https://en.wikipedia.org/wiki/Marshall_Islands",
+    "alpha2": "MH",
+    "alpha3": "MHL",
+    "numeric": "584",
+    "top_level_domain": "mh\n"
+  },
+  "MR": {
+    "country_name": "Mauritania",
+    "official_state_name": "The Islamic Republic of Mauritania",
+    "wiki_link": "https://en.wikipedia.org/wiki/Mauritania",
+    "alpha2": "MR",
+    "alpha3": "MRT",
+    "numeric": "478",
+    "top_level_domain": "mr\n"
+  },
+  "MU": {
+    "country_name": "Mauritius",
+    "official_state_name": "The Republic of Mauritius",
+    "wiki_link": "https://en.wikipedia.org/wiki/Mauritius",
+    "alpha2": "MU",
+    "alpha3": "MUS",
+    "numeric": "480",
+    "top_level_domain": "mu\n"
+  },
+  "MX": {
+    "country_name": "Mexico",
+    "official_state_name": "The United Mexican States",
+    "wiki_link": "https://en.wikipedia.org/wiki/Mexico",
+    "alpha2": "MX",
+    "alpha3": "MEX",
+    "numeric": "484",
+    "top_level_domain": "mx\n"
+  },
+  "FM": {
+    "country_name": "Micronesia (Federated States of)",
+    "official_state_name": "The Federated States of Micronesia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
+    "alpha2": "FM",
+    "alpha3": "FSM",
+    "numeric": "583",
+    "top_level_domain": "fm\n"
+  },
+  "MD": {
+    "country_name": "Moldova (the Republic of)",
+    "official_state_name": "The Republic of Moldova",
+    "wiki_link": "https://en.wikipedia.org/wiki/Moldova",
+    "alpha2": "MD",
+    "alpha3": "MDA",
+    "numeric": "498",
+    "top_level_domain": "md\n"
+  },
+  "MC": {
+    "country_name": "Monaco",
+    "official_state_name": "The Principality of Monaco",
+    "wiki_link": "https://en.wikipedia.org/wiki/Monaco",
+    "alpha2": "MC",
+    "alpha3": "MCO",
+    "numeric": "492",
+    "top_level_domain": "mc\n"
+  },
+  "MN": {
+    "country_name": "Mongolia",
+    "official_state_name": "The State of Mongolia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Mongolia",
+    "alpha2": "MN",
+    "alpha3": "MNG",
+    "numeric": "496",
+    "top_level_domain": "mn\n"
+  },
+  "ME": {
+    "country_name": "Montenegro",
+    "official_state_name": "Montenegro",
+    "wiki_link": "https://en.wikipedia.org/wiki/Montenegro",
+    "alpha2": "ME",
+    "alpha3": "MNE",
+    "numeric": "499",
+    "top_level_domain": "me\n"
+  },
+  "MA": {
+    "country_name": "Morocco",
+    "official_state_name": "The Kingdom of Morocco",
+    "wiki_link": "https://en.wikipedia.org/wiki/Morocco",
+    "alpha2": "MA",
+    "alpha3": "MAR",
+    "numeric": "504",
+    "top_level_domain": "ma\n"
+  },
+  "MZ": {
+    "country_name": "Mozambique",
+    "official_state_name": "The Republic of Mozambique",
+    "wiki_link": "https://en.wikipedia.org/wiki/Mozambique",
+    "alpha2": "MZ",
+    "alpha3": "MOZ",
+    "numeric": "508",
+    "top_level_domain": "mz\n"
+  },
+  "MM": {
+    "country_name": "Myanmar",
+    "official_state_name": "The Republic of the Union of Myanmar",
+    "wiki_link": "https://en.wikipedia.org/wiki/Myanmar",
+    "alpha2": "MM",
+    "alpha3": "MMR",
+    "numeric": "104",
+    "top_level_domain": "mm\n"
+  },
+  "NA": {
+    "country_name": "Namibia",
+    "official_state_name": "The Republic of Namibia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Namibia",
+    "alpha2": "NA",
+    "alpha3": "NAM",
+    "numeric": "516",
+    "top_level_domain": "na\n"
+  },
+  "NR": {
+    "country_name": "Nauru",
+    "official_state_name": "The Republic of Nauru",
+    "wiki_link": "https://en.wikipedia.org/wiki/Nauru",
+    "alpha2": "NR",
+    "alpha3": "NRU",
+    "numeric": "520",
+    "top_level_domain": "nr\n"
+  },
+  "NP": {
+    "country_name": "Nepal",
+    "official_state_name": "The Federal Democratic Republic of Nepal",
+    "wiki_link": "https://en.wikipedia.org/wiki/Nepal",
+    "alpha2": "NP",
+    "alpha3": "NPL",
+    "numeric": "524",
+    "top_level_domain": "np\n"
+  },
+  "NL": {
+    "country_name": "Netherlands (the)",
+    "official_state_name": "The Kingdom of the Netherlands",
+    "wiki_link": "https://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands",
+    "alpha2": "NL",
+    "alpha3": "NLD",
+    "numeric": "528",
+    "top_level_domain": "nl\n"
+  },
+  "NZ": {
+    "country_name": "New Zealand",
+    "official_state_name": "New Zealand",
+    "wiki_link": "https://en.wikipedia.org/wiki/New_Zealand",
+    "alpha2": "NZ",
+    "alpha3": "NZL",
+    "numeric": "554",
+    "top_level_domain": "nz\n"
+  },
+  "NI": {
+    "country_name": "Nicaragua",
+    "official_state_name": "The Republic of Nicaragua",
+    "wiki_link": "https://en.wikipedia.org/wiki/Nicaragua",
+    "alpha2": "NI",
+    "alpha3": "NIC",
+    "numeric": "558",
+    "top_level_domain": "ni\n"
+  },
+  "NE": {
+    "country_name": "Niger (the)",
+    "official_state_name": "The Republic of the Niger",
+    "wiki_link": "https://en.wikipedia.org/wiki/Niger",
+    "alpha2": "NE",
+    "alpha3": "NER",
+    "numeric": "562",
+    "top_level_domain": "ne\n"
+  },
+  "NG": {
+    "country_name": "Nigeria",
+    "official_state_name": "The Federal Republic of Nigeria",
+    "wiki_link": "https://en.wikipedia.org/wiki/Nigeria",
+    "alpha2": "NG",
+    "alpha3": "NGA",
+    "numeric": "566",
+    "top_level_domain": "ng\n"
+  },
+  "NO": {
+    "country_name": "Norway",
+    "official_state_name": "The Kingdom of Norway",
+    "wiki_link": "https://en.wikipedia.org/wiki/Norway",
+    "alpha2": "NO",
+    "alpha3": "NOR",
+    "numeric": "578",
+    "top_level_domain": "no\n"
+  },
+  "OM": {
+    "country_name": "Oman",
+    "official_state_name": "The Sultanate of Oman",
+    "wiki_link": "https://en.wikipedia.org/wiki/Oman",
+    "alpha2": "OM",
+    "alpha3": "OMN",
+    "numeric": "512",
+    "top_level_domain": "om\n"
+  },
+  "PK": {
+    "country_name": "Pakistan",
+    "official_state_name": "The Islamic Republic of Pakistan",
+    "wiki_link": "https://en.wikipedia.org/wiki/Pakistan",
+    "alpha2": "PK",
+    "alpha3": "PAK",
+    "numeric": "586",
+    "top_level_domain": "pk\n"
+  },
+  "PW": {
+    "country_name": "Palau",
+    "official_state_name": "The Republic of Palau",
+    "wiki_link": "https://en.wikipedia.org/wiki/Palau",
+    "alpha2": "PW",
+    "alpha3": "PLW",
+    "numeric": "585",
+    "top_level_domain": "pw\n"
+  },
+  "PA": {
+    "country_name": "Panama",
+    "official_state_name": "The Republic of Panam\u00e1",
+    "wiki_link": "https://en.wikipedia.org/wiki/Panama",
+    "alpha2": "PA",
+    "alpha3": "PAN",
+    "numeric": "591",
+    "top_level_domain": "pa\n"
+  },
+  "PG": {
+    "country_name": "Papua New Guinea",
+    "official_state_name": "The Independent State of Papua New Guinea",
+    "wiki_link": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+    "alpha2": "PG",
+    "alpha3": "PNG",
+    "numeric": "598",
+    "top_level_domain": "pg\n"
+  },
+  "PY": {
+    "country_name": "Paraguay",
+    "official_state_name": "The Republic of Paraguay",
+    "wiki_link": "https://en.wikipedia.org/wiki/Paraguay",
+    "alpha2": "PY",
+    "alpha3": "PRY",
+    "numeric": "600",
+    "top_level_domain": "py\n"
+  },
+  "PE": {
+    "country_name": "Peru",
+    "official_state_name": "The Republic of Per\u00fa",
+    "wiki_link": "https://en.wikipedia.org/wiki/Peru",
+    "alpha2": "PE",
+    "alpha3": "PER",
+    "numeric": "604",
+    "top_level_domain": "pe\n"
+  },
+  "PH": {
+    "country_name": "Philippines (the)",
+    "official_state_name": "The Republic of the Philippines",
+    "wiki_link": "https://en.wikipedia.org/wiki/Philippines",
+    "alpha2": "PH",
+    "alpha3": "PHL",
+    "numeric": "608",
+    "top_level_domain": "ph\n"
+  },
+  "PL": {
+    "country_name": "Poland",
+    "official_state_name": "The Republic of Poland",
+    "wiki_link": "https://en.wikipedia.org/wiki/Poland",
+    "alpha2": "PL",
+    "alpha3": "POL",
+    "numeric": "616",
+    "top_level_domain": "pl\n"
+  },
+  "PT": {
+    "country_name": "Portugal",
+    "official_state_name": "The Portuguese Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Portugal",
+    "alpha2": "PT",
+    "alpha3": "PRT",
+    "numeric": "620",
+    "top_level_domain": "pt\n"
+  },
+  "QA": {
+    "country_name": "Qatar",
+    "official_state_name": "The State of Qatar",
+    "wiki_link": "https://en.wikipedia.org/wiki/Qatar",
+    "alpha2": "QA",
+    "alpha3": "QAT",
+    "numeric": "634",
+    "top_level_domain": "qa\n"
+  },
+  "RO": {
+    "country_name": "Romania",
+    "official_state_name": "Romania",
+    "wiki_link": "https://en.wikipedia.org/wiki/Romania",
+    "alpha2": "RO",
+    "alpha3": "ROU",
+    "numeric": "642",
+    "top_level_domain": "ro\n"
+  },
+  "RU": {
+    "country_name": "Russian Federation (the)",
+    "official_state_name": "The Russian Federation",
+    "wiki_link": "https://en.wikipedia.org/wiki/Russia",
+    "alpha2": "RU",
+    "alpha3": "RUS",
+    "numeric": "643",
+    "top_level_domain": "ru\n"
+  },
+  "RW": {
+    "country_name": "Rwanda",
+    "official_state_name": "The Republic of Rwanda",
+    "wiki_link": "https://en.wikipedia.org/wiki/Rwanda",
+    "alpha2": "RW",
+    "alpha3": "RWA",
+    "numeric": "646",
+    "top_level_domain": "rw\n"
+  },
+  "KN": {
+    "country_name": "Saint Kitts and Nevis",
+    "official_state_name": "Saint Kitts and Nevis",
+    "wiki_link": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+    "alpha2": "KN",
+    "alpha3": "KNA",
+    "numeric": "659",
+    "top_level_domain": "kn\n"
+  },
+  "LC": {
+    "country_name": "Saint Lucia",
+    "official_state_name": "Saint Lucia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Saint_Lucia",
+    "alpha2": "LC",
+    "alpha3": "LCA",
+    "numeric": "662",
+    "top_level_domain": "lc\n"
+  },
+  "VC": {
+    "country_name": "Saint Vincent and the Grenadines",
+    "official_state_name": "Saint Vincent and the Grenadines",
+    "wiki_link": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+    "alpha2": "VC",
+    "alpha3": "VCT",
+    "numeric": "670",
+    "top_level_domain": "vc\n"
+  },
+  "WS": {
+    "country_name": "Samoa",
+    "official_state_name": "The Independent State of Samoa",
+    "wiki_link": "https://en.wikipedia.org/wiki/Samoa",
+    "alpha2": "WS",
+    "alpha3": "WSM",
+    "numeric": "882",
+    "top_level_domain": "ws\n"
+  },
+  "SM": {
+    "country_name": "San Marino",
+    "official_state_name": "The Republic of San Marino",
+    "wiki_link": "https://en.wikipedia.org/wiki/San_Marino",
+    "alpha2": "SM",
+    "alpha3": "SMR",
+    "numeric": "674",
+    "top_level_domain": "sm\n"
+  },
+  "ST": {
+    "country_name": "Sao Tome and Principe",
+    "official_state_name": "The Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "wiki_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+    "alpha2": "ST",
+    "alpha3": "STP",
+    "numeric": "678",
+    "top_level_domain": "st\n"
+  },
+  "SA": {
+    "country_name": "Saudi Arabia",
+    "official_state_name": "The Kingdom of Saudi Arabia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+    "alpha2": "SA",
+    "alpha3": "SAU",
+    "numeric": "682",
+    "top_level_domain": "sa\n"
+  },
+  "SN": {
+    "country_name": "Senegal",
+    "official_state_name": "The Republic of Senegal",
+    "wiki_link": "https://en.wikipedia.org/wiki/Senegal",
+    "alpha2": "SN",
+    "alpha3": "SEN",
+    "numeric": "686",
+    "top_level_domain": "sn\n"
+  },
+  "RS": {
+    "country_name": "Serbia",
+    "official_state_name": "The Republic of Serbia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Serbia",
+    "alpha2": "RS",
+    "alpha3": "SRB",
+    "numeric": "688",
+    "top_level_domain": "rs\n"
+  },
+  "SC": {
+    "country_name": "Seychelles",
+    "official_state_name": "The Republic of Seychelles",
+    "wiki_link": "https://en.wikipedia.org/wiki/Seychelles",
+    "alpha2": "SC",
+    "alpha3": "SYC",
+    "numeric": "690",
+    "top_level_domain": "sc\n"
+  },
+  "SL": {
+    "country_name": "Sierra Leone",
+    "official_state_name": "The Republic of Sierra Leone",
+    "wiki_link": "https://en.wikipedia.org/wiki/Sierra_Leone",
+    "alpha2": "SL",
+    "alpha3": "SLE",
+    "numeric": "694",
+    "top_level_domain": "sl\n"
+  },
+  "SG": {
+    "country_name": "Singapore",
+    "official_state_name": "The Republic of Singapore",
+    "wiki_link": "https://en.wikipedia.org/wiki/Singapore",
+    "alpha2": "SG",
+    "alpha3": "SGP",
+    "numeric": "702",
+    "top_level_domain": "sg\n"
+  },
+  "SK": {
+    "country_name": "Slovakia",
+    "official_state_name": "The Slovak Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Slovakia",
+    "alpha2": "SK",
+    "alpha3": "SVK",
+    "numeric": "703",
+    "top_level_domain": "sk\n"
+  },
+  "SI": {
+    "country_name": "Slovenia",
+    "official_state_name": "The Republic of Slovenia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Slovenia",
+    "alpha2": "SI",
+    "alpha3": "SVN",
+    "numeric": "705",
+    "top_level_domain": "si\n"
+  },
+  "SB": {
+    "country_name": "Solomon Islands",
+    "official_state_name": "The Solomon Islands",
+    "wiki_link": "https://en.wikipedia.org/wiki/Solomon_Islands",
+    "alpha2": "SB",
+    "alpha3": "SLB",
+    "numeric": "090",
+    "top_level_domain": "sb\n"
+  },
+  "SO": {
+    "country_name": "Somalia",
+    "official_state_name": "The Federal Republic of Somalia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Somalia",
+    "alpha2": "SO",
+    "alpha3": "SOM",
+    "numeric": "706",
+    "top_level_domain": "so\n"
+  },
+  "ZA": {
+    "country_name": "South Africa",
+    "official_state_name": "The Republic of South Africa",
+    "wiki_link": "https://en.wikipedia.org/wiki/South_Africa",
+    "alpha2": "ZA",
+    "alpha3": "ZAF",
+    "numeric": "710",
+    "top_level_domain": "za\n"
+  },
+  "SS": {
+    "country_name": "South Sudan",
+    "official_state_name": "The Republic of South Sudan",
+    "wiki_link": "https://en.wikipedia.org/wiki/South_Sudan",
+    "alpha2": "SS",
+    "alpha3": "SSD",
+    "numeric": "728",
+    "top_level_domain": "ss\n"
+  },
+  "ES": {
+    "country_name": "Spain",
+    "official_state_name": "The Kingdom of Spain",
+    "wiki_link": "https://en.wikipedia.org/wiki/Spain",
+    "alpha2": "ES",
+    "alpha3": "ESP",
+    "numeric": "724",
+    "top_level_domain": "es\n"
+  },
+  "LK": {
+    "country_name": "Sri Lanka",
+    "official_state_name": "The Democratic Socialist Republic of Sri Lanka",
+    "wiki_link": "https://en.wikipedia.org/wiki/Sri_Lanka",
+    "alpha2": "LK",
+    "alpha3": "LKA",
+    "numeric": "144",
+    "top_level_domain": "lk\n"
+  },
+  "SD": {
+    "country_name": "Sudan (the)",
+    "official_state_name": "The Republic of the Sudan",
+    "wiki_link": "https://en.wikipedia.org/wiki/Sudan",
+    "alpha2": "SD",
+    "alpha3": "SDN",
+    "numeric": "729",
+    "top_level_domain": "sd\n"
+  },
+  "SR": {
+    "country_name": "Suriname",
+    "official_state_name": "The Republic of Suriname",
+    "wiki_link": "https://en.wikipedia.org/wiki/Suriname",
+    "alpha2": "SR",
+    "alpha3": "SUR",
+    "numeric": "740",
+    "top_level_domain": "sr\n"
+  },
+  "SE": {
+    "country_name": "Sweden",
+    "official_state_name": "The Kingdom of Sweden",
+    "wiki_link": "https://en.wikipedia.org/wiki/Sweden",
+    "alpha2": "SE",
+    "alpha3": "SWE",
+    "numeric": "752",
+    "top_level_domain": "se\n"
+  },
+  "CH": {
+    "country_name": "Switzerland",
+    "official_state_name": "The Swiss Confederation",
+    "wiki_link": "https://en.wikipedia.org/wiki/Switzerland",
+    "alpha2": "CH",
+    "alpha3": "CHE",
+    "numeric": "756",
+    "top_level_domain": "ch\n"
+  },
+  "SY": {
+    "country_name": "Syrian Arab Republic (the)",
+    "official_state_name": "The Syrian Arab Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Syria",
+    "alpha2": "SY",
+    "alpha3": "SYR",
+    "numeric": "760",
+    "top_level_domain": "sy\n"
+  },
+  "TJ": {
+    "country_name": "Tajikistan",
+    "official_state_name": "The Republic of Tajikistan",
+    "wiki_link": "https://en.wikipedia.org/wiki/Tajikistan",
+    "alpha2": "TJ",
+    "alpha3": "TJK",
+    "numeric": "762",
+    "top_level_domain": "tj\n"
+  },
+  "TZ": {
+    "country_name": "Tanzania, the United Republic of",
+    "official_state_name": "The United Republic of Tanzania",
+    "wiki_link": "https://en.wikipedia.org/wiki/Tanzania",
+    "alpha2": "TZ",
+    "alpha3": "TZA",
+    "numeric": "834",
+    "top_level_domain": "tz\n"
+  },
+  "TH": {
+    "country_name": "Thailand",
+    "official_state_name": "The Kingdom of Thailand",
+    "wiki_link": "https://en.wikipedia.org/wiki/Thailand",
+    "alpha2": "TH",
+    "alpha3": "THA",
+    "numeric": "764",
+    "top_level_domain": "th\n"
+  },
+  "TL": {
+    "country_name": "Timor-Leste",
+    "official_state_name": "The Democratic Republic of Timor-Leste",
+    "wiki_link": "https://en.wikipedia.org/wiki/East_Timor",
+    "alpha2": "TL",
+    "alpha3": "TLS",
+    "numeric": "626",
+    "top_level_domain": "tl\n"
+  },
+  "TG": {
+    "country_name": "Togo",
+    "official_state_name": "The Togolese Republic",
+    "wiki_link": "https://en.wikipedia.org/wiki/Togo",
+    "alpha2": "TG",
+    "alpha3": "TGO",
+    "numeric": "768",
+    "top_level_domain": "tg\n"
+  },
+  "TO": {
+    "country_name": "Tonga",
+    "official_state_name": "The Kingdom of Tonga",
+    "wiki_link": "https://en.wikipedia.org/wiki/Tonga",
+    "alpha2": "TO",
+    "alpha3": "TON",
+    "numeric": "776",
+    "top_level_domain": "to\n"
+  },
+  "TT": {
+    "country_name": "Trinidad and Tobago",
+    "official_state_name": "The Republic of Trinidad and Tobago",
+    "wiki_link": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+    "alpha2": "TT",
+    "alpha3": "TTO",
+    "numeric": "780",
+    "top_level_domain": "tt\n"
+  },
+  "TN": {
+    "country_name": "Tunisia",
+    "official_state_name": "The Republic of Tunisia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Tunisia",
+    "alpha2": "TN",
+    "alpha3": "TUN",
+    "numeric": "788",
+    "top_level_domain": "tn\n"
+  },
+  "TR": {
+    "country_name": "Turkey",
+    "official_state_name": "The Republic of Turkey",
+    "wiki_link": "https://en.wikipedia.org/wiki/Turkey",
+    "alpha2": "TR",
+    "alpha3": "TUR",
+    "numeric": "792",
+    "top_level_domain": "tr\n"
+  },
+  "TM": {
+    "country_name": "Turkmenistan",
+    "official_state_name": "Turkmenistan",
+    "wiki_link": "https://en.wikipedia.org/wiki/Turkmenistan",
+    "alpha2": "TM",
+    "alpha3": "TKM",
+    "numeric": "795",
+    "top_level_domain": "tm\n"
+  },
+  "TV": {
+    "country_name": "Tuvalu",
+    "official_state_name": "Tuvalu",
+    "wiki_link": "https://en.wikipedia.org/wiki/Tuvalu",
+    "alpha2": "TV",
+    "alpha3": "TUV",
+    "numeric": "798",
+    "top_level_domain": "tv\n"
+  },
+  "UG": {
+    "country_name": "Uganda",
+    "official_state_name": "The Republic of Uganda",
+    "wiki_link": "https://en.wikipedia.org/wiki/Uganda",
+    "alpha2": "UG",
+    "alpha3": "UGA",
+    "numeric": "800",
+    "top_level_domain": "ug\n"
+  },
+  "UA": {
+    "country_name": "Ukraine",
+    "official_state_name": "Ukraine",
+    "wiki_link": "https://en.wikipedia.org/wiki/Ukraine",
+    "alpha2": "UA",
+    "alpha3": "UKR",
+    "numeric": "804",
+    "top_level_domain": "ua\n"
+  },
+  "AE": {
+    "country_name": "United Arab Emirates (the)",
+    "official_state_name": "The United Arab Emirates",
+    "wiki_link": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+    "alpha2": "AE",
+    "alpha3": "ARE",
+    "numeric": "784",
+    "top_level_domain": "ae\n"
+  },
+  "GB": {
+    "country_name": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "official_state_name": "The United Kingdom of Great Britain and Northern Ireland",
+    "wiki_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+    "alpha2": "GB",
+    "alpha3": "GBR",
+    "numeric": "826",
+    "top_level_domain": "gb .uk\u200a[ab]\n"
+  },
+  "US": {
+    "country_name": "United States of America (the)",
+    "official_state_name": "The United States of America",
+    "wiki_link": "https://en.wikipedia.org/wiki/United_States",
+    "alpha2": "US",
+    "alpha3": "USA",
+    "numeric": "840",
+    "top_level_domain": "us\n"
+  },
+  "UY": {
+    "country_name": "Uruguay",
+    "official_state_name": "The Oriental Republic of Uruguay",
+    "wiki_link": "https://en.wikipedia.org/wiki/Uruguay",
+    "alpha2": "UY",
+    "alpha3": "URY",
+    "numeric": "858",
+    "top_level_domain": "uy\n"
+  },
+  "UZ": {
+    "country_name": "Uzbekistan",
+    "official_state_name": "The Republic of Uzbekistan",
+    "wiki_link": "https://en.wikipedia.org/wiki/Uzbekistan",
+    "alpha2": "UZ",
+    "alpha3": "UZB",
+    "numeric": "860",
+    "top_level_domain": "uz\n"
+  },
+  "VU": {
+    "country_name": "Vanuatu",
+    "official_state_name": "The Republic of Vanuatu",
+    "wiki_link": "https://en.wikipedia.org/wiki/Vanuatu",
+    "alpha2": "VU",
+    "alpha3": "VUT",
+    "numeric": "548",
+    "top_level_domain": "vu\n"
+  },
+  "VE": {
+    "country_name": "Venezuela (Bolivarian Republic of)",
+    "official_state_name": "The Bolivarian Republic of Venezuela",
+    "wiki_link": "https://en.wikipedia.org/wiki/Venezuela",
+    "alpha2": "VE",
+    "alpha3": "VEN",
+    "numeric": "862",
+    "top_level_domain": "ve\n"
+  },
+  "VN": {
+    "country_name": "Viet Nam",
+    "official_state_name": "The Socialist Republic of Viet Nam",
+    "wiki_link": "https://en.wikipedia.org/wiki/Vietnam",
+    "alpha2": "VN",
+    "alpha3": "VNM",
+    "numeric": "704",
+    "top_level_domain": "vn\n"
+  },
+  "YE": {
+    "country_name": "Yemen",
+    "official_state_name": "The Republic of Yemen",
+    "wiki_link": "https://en.wikipedia.org/wiki/Yemen",
+    "alpha2": "YE",
+    "alpha3": "YEM",
+    "numeric": "887",
+    "top_level_domain": "ye\n"
+  },
+  "ZM": {
+    "country_name": "Zambia",
+    "official_state_name": "The Republic of Zambia",
+    "wiki_link": "https://en.wikipedia.org/wiki/Zambia",
+    "alpha2": "ZM",
+    "alpha3": "ZMB",
+    "numeric": "894",
+    "top_level_domain": "zm\n"
+  },
+  "ZW": {
+    "country_name": "Zimbabwe",
+    "official_state_name": "The Republic of Zimbabwe",
+    "wiki_link": "https://en.wikipedia.org/wiki/Zimbabwe",
+    "alpha2": "ZW",
+    "alpha3": "ZWE",
+    "numeric": "716",
+    "top_level_domain": "zw\n"
+  }
+}
