@@ -67,7 +67,7 @@ if __name__ == "__main__":
                 # Top level domain
                 top_level_domain_html = columns[COUNTRY_CODE_TOP_LEVEL_DOMAIN_COLUMN_INDEX]
                 used_domain_html = top_level_domain_html.findall("a")[-1]  # There can be multiple domains in this column - therefore use the last
-                top_level_domain = top_level_domain_html.text_content()[1:]
+                top_level_domain = used_domain_html.text_content()[1:]
 
                 country = {
                     "country_name": country_name,

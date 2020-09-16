@@ -6,7 +6,7 @@
     "alpha2": "AF",
     "alpha3": "AFG",
     "numeric": "004",
-    "top_level_domain": "af\n"
+    "top_level_domain": "af"
   },
   "AL": {
     "country_name": "Albania",
@@ -15,7 +15,7 @@
     "alpha2": "AL",
     "alpha3": "ALB",
     "numeric": "008",
-    "top_level_domain": "al\n"
+    "top_level_domain": "al"
   },
   "DZ": {
     "country_name": "Algeria",
@@ -24,7 +24,7 @@
     "alpha2": "DZ",
     "alpha3": "DZA",
     "numeric": "012",
-    "top_level_domain": "dz\n"
+    "top_level_domain": "dz"
   },
   "AD": {
     "country_name": "Andorra",
@@ -33,7 +33,7 @@
     "alpha2": "AD",
     "alpha3": "AND",
     "numeric": "020",
-    "top_level_domain": "ad\n"
+    "top_level_domain": "ad"
   },
   "AO": {
     "country_name": "Angola",
@@ -42,7 +42,7 @@
     "alpha2": "AO",
     "alpha3": "AGO",
     "numeric": "024",
-    "top_level_domain": "ao\n"
+    "top_level_domain": "ao"
   },
   "AG": {
     "country_name": "Antigua and Barbuda",
@@ -51,7 +51,7 @@
     "alpha2": "AG",
     "alpha3": "ATG",
     "numeric": "028",
-    "top_level_domain": "ag\n"
+    "top_level_domain": "ag"
   },
   "AR": {
     "country_name": "Argentina",
@@ -60,7 +60,7 @@
     "alpha2": "AR",
     "alpha3": "ARG",
     "numeric": "032",
-    "top_level_domain": "ar\n"
+    "top_level_domain": "ar"
   },
   "AM": {
     "country_name": "Armenia",
@@ -69,7 +69,7 @@
     "alpha2": "AM",
     "alpha3": "ARM",
     "numeric": "051",
-    "top_level_domain": "am\n"
+    "top_level_domain": "am"
   },
   "AU": {
     "country_name": "Australia",
@@ -78,7 +78,7 @@
     "alpha2": "AU",
     "alpha3": "AUS",
     "numeric": "036",
-    "top_level_domain": "au\n"
+    "top_level_domain": "au"
   },
   "AT": {
     "country_name": "Austria",
@@ -87,7 +87,7 @@
     "alpha2": "AT",
     "alpha3": "AUT",
     "numeric": "040",
-    "top_level_domain": "at\n"
+    "top_level_domain": "at"
   },
   "AZ": {
     "country_name": "Azerbaijan",
@@ -96,7 +96,7 @@
     "alpha2": "AZ",
     "alpha3": "AZE",
     "numeric": "031",
-    "top_level_domain": "az\n"
+    "top_level_domain": "az"
   },
   "BS": {
     "country_name": "Bahamas (the)",
@@ -105,7 +105,7 @@
     "alpha2": "BS",
     "alpha3": "BHS",
     "numeric": "044",
-    "top_level_domain": "bs\n"
+    "top_level_domain": "bs"
   },
   "BH": {
     "country_name": "Bahrain",
@@ -114,7 +114,7 @@
     "alpha2": "BH",
     "alpha3": "BHR",
     "numeric": "048",
-    "top_level_domain": "bh\n"
+    "top_level_domain": "bh"
   },
   "BD": {
     "country_name": "Bangladesh",
@@ -123,7 +123,7 @@
     "alpha2": "BD",
     "alpha3": "BGD",
     "numeric": "050",
-    "top_level_domain": "bd\n"
+    "top_level_domain": "bd"
   },
   "BB": {
     "country_name": "Barbados",
@@ -132,7 +132,7 @@
     "alpha2": "BB",
     "alpha3": "BRB",
     "numeric": "052",
-    "top_level_domain": "bb\n"
+    "top_level_domain": "bb"
   },
   "BY": {
     "country_name": "Belarus",
@@ -141,7 +141,7 @@
     "alpha2": "BY",
     "alpha3": "BLR",
     "numeric": "112",
-    "top_level_domain": "by\n"
+    "top_level_domain": "by"
   },
   "BE": {
     "country_name": "Belgium",
@@ -150,7 +150,7 @@
     "alpha2": "BE",
     "alpha3": "BEL",
     "numeric": "056",
-    "top_level_domain": "be\n"
+    "top_level_domain": "be"
   },
   "BZ": {
     "country_name": "Belize",
@@ -159,7 +159,7 @@
     "alpha2": "BZ",
     "alpha3": "BLZ",
     "numeric": "084",
-    "top_level_domain": "bz\n"
+    "top_level_domain": "bz"
   },
   "BJ": {
     "country_name": "Benin",
@@ -168,7 +168,7 @@
     "alpha2": "BJ",
     "alpha3": "BEN",
     "numeric": "204",
-    "top_level_domain": "bj\n"
+    "top_level_domain": "bj"
   },
   "BT": {
     "country_name": "Bhutan",
@@ -177,7 +177,7 @@
     "alpha2": "BT",
     "alpha3": "BTN",
     "numeric": "064",
-    "top_level_domain": "bt\n"
+    "top_level_domain": "bt"
   },
   "BO": {
     "country_name": "Bolivia (Plurinational State of)",
@@ -186,7 +186,7 @@
     "alpha2": "BO",
     "alpha3": "BOL",
     "numeric": "068",
-    "top_level_domain": "bo\n"
+    "top_level_domain": "bo"
   },
   "BA": {
     "country_name": "Bosnia and Herzegovina",
@@ -195,7 +195,7 @@
     "alpha2": "BA",
     "alpha3": "BIH",
     "numeric": "070",
-    "top_level_domain": "ba\n"
+    "top_level_domain": "ba"
   },
   "BW": {
     "country_name": "Botswana",
@@ -204,7 +204,7 @@
     "alpha2": "BW",
     "alpha3": "BWA",
     "numeric": "072",
-    "top_level_domain": "bw\n"
+    "top_level_domain": "bw"
   },
   "BR": {
     "country_name": "Brazil",
@@ -213,7 +213,7 @@
     "alpha2": "BR",
     "alpha3": "BRA",
     "numeric": "076",
-    "top_level_domain": "br\n"
+    "top_level_domain": "br"
   },
   "BN": {
     "country_name": "Brunei Darussalam",
@@ -222,7 +222,7 @@
     "alpha2": "BN",
     "alpha3": "BRN",
     "numeric": "096",
-    "top_level_domain": "bn\n"
+    "top_level_domain": "bn"
   },
   "BG": {
     "country_name": "Bulgaria",
@@ -231,7 +231,7 @@
     "alpha2": "BG",
     "alpha3": "BGR",
     "numeric": "100",
-    "top_level_domain": "bg\n"
+    "top_level_domain": "bg"
   },
   "BF": {
     "country_name": "Burkina Faso",
@@ -240,7 +240,7 @@
     "alpha2": "BF",
     "alpha3": "BFA",
     "numeric": "854",
-    "top_level_domain": "bf\n"
+    "top_level_domain": "bf"
   },
   "BI": {
     "country_name": "Burundi",
@@ -249,7 +249,7 @@
     "alpha2": "BI",
     "alpha3": "BDI",
     "numeric": "108",
-    "top_level_domain": "bi\n"
+    "top_level_domain": "bi"
   },
   "CV": {
     "country_name": "Cabo Verde",
@@ -258,7 +258,7 @@
     "alpha2": "CV",
     "alpha3": "CPV",
     "numeric": "132",
-    "top_level_domain": "cv\n"
+    "top_level_domain": "cv"
   },
   "KH": {
     "country_name": "Cambodia",
@@ -267,7 +267,7 @@
     "alpha2": "KH",
     "alpha3": "KHM",
     "numeric": "116",
-    "top_level_domain": "kh\n"
+    "top_level_domain": "kh"
   },
   "CM": {
     "country_name": "Cameroon",
@@ -276,7 +276,7 @@
     "alpha2": "CM",
     "alpha3": "CMR",
     "numeric": "120",
-    "top_level_domain": "cm\n"
+    "top_level_domain": "cm"
   },
   "CA": {
     "country_name": "Canada",
@@ -285,7 +285,7 @@
     "alpha2": "CA",
     "alpha3": "CAN",
     "numeric": "124",
-    "top_level_domain": "ca\n"
+    "top_level_domain": "ca"
   },
   "CF": {
     "country_name": "Central African Republic (the)",
@@ -294,7 +294,7 @@
     "alpha2": "CF",
     "alpha3": "CAF",
     "numeric": "140",
-    "top_level_domain": "cf\n"
+    "top_level_domain": "cf"
   },
   "TD": {
     "country_name": "Chad",
@@ -303,7 +303,7 @@
     "alpha2": "TD",
     "alpha3": "TCD",
     "numeric": "148",
-    "top_level_domain": "td\n"
+    "top_level_domain": "td"
   },
   "CL": {
     "country_name": "Chile",
@@ -312,7 +312,7 @@
     "alpha2": "CL",
     "alpha3": "CHL",
     "numeric": "152",
-    "top_level_domain": "cl\n"
+    "top_level_domain": "cl"
   },
   "CN": {
     "country_name": "China",
@@ -321,7 +321,7 @@
     "alpha2": "CN",
     "alpha3": "CHN",
     "numeric": "156",
-    "top_level_domain": "cn\n"
+    "top_level_domain": "cn"
   },
   "CO": {
     "country_name": "Colombia",
@@ -330,7 +330,7 @@
     "alpha2": "CO",
     "alpha3": "COL",
     "numeric": "170",
-    "top_level_domain": "co\n"
+    "top_level_domain": "co"
   },
   "KM": {
     "country_name": "Comoros (the)",
@@ -339,7 +339,7 @@
     "alpha2": "KM",
     "alpha3": "COM",
     "numeric": "174",
-    "top_level_domain": "km\n"
+    "top_level_domain": "km"
   },
   "CD": {
     "country_name": "Congo (the Democratic Republic of the)",
@@ -348,7 +348,7 @@
     "alpha2": "CD",
     "alpha3": "COD",
     "numeric": "180",
-    "top_level_domain": "cd\n"
+    "top_level_domain": "cd"
   },
   "CG": {
     "country_name": "Congo (the)",
@@ -357,7 +357,7 @@
     "alpha2": "CG",
     "alpha3": "COG",
     "numeric": "178",
-    "top_level_domain": "cg\n"
+    "top_level_domain": "cg"
   },
   "CR": {
     "country_name": "Costa Rica",
@@ -366,7 +366,7 @@
     "alpha2": "CR",
     "alpha3": "CRI",
     "numeric": "188",
-    "top_level_domain": "cr\n"
+    "top_level_domain": "cr"
   },
   "CI": {
     "country_name": "C\u00f4te d'Ivoire",
@@ -375,7 +375,7 @@
     "alpha2": "CI",
     "alpha3": "CIV",
     "numeric": "384",
-    "top_level_domain": "ci\n"
+    "top_level_domain": "ci"
   },
   "HR": {
     "country_name": "Croatia",
@@ -384,7 +384,7 @@
     "alpha2": "HR",
     "alpha3": "HRV",
     "numeric": "191",
-    "top_level_domain": "hr\n"
+    "top_level_domain": "hr"
   },
   "CU": {
     "country_name": "Cuba",
@@ -393,7 +393,7 @@
     "alpha2": "CU",
     "alpha3": "CUB",
     "numeric": "192",
-    "top_level_domain": "cu\n"
+    "top_level_domain": "cu"
   },
   "CY": {
     "country_name": "Cyprus",
@@ -402,7 +402,7 @@
     "alpha2": "CY",
     "alpha3": "CYP",
     "numeric": "196",
-    "top_level_domain": "cy\n"
+    "top_level_domain": "cy"
   },
   "CZ": {
     "country_name": "Czechia",
@@ -411,7 +411,7 @@
     "alpha2": "CZ",
     "alpha3": "CZE",
     "numeric": "203",
-    "top_level_domain": "cz\n"
+    "top_level_domain": "cz"
   },
   "DK": {
     "country_name": "Denmark",
@@ -420,7 +420,7 @@
     "alpha2": "DK",
     "alpha3": "DNK",
     "numeric": "208",
-    "top_level_domain": "dk\n"
+    "top_level_domain": "dk"
   },
   "DJ": {
     "country_name": "Djibouti",
@@ -429,7 +429,7 @@
     "alpha2": "DJ",
     "alpha3": "DJI",
     "numeric": "262",
-    "top_level_domain": "dj\n"
+    "top_level_domain": "dj"
   },
   "DM": {
     "country_name": "Dominica",
@@ -438,7 +438,7 @@
     "alpha2": "DM",
     "alpha3": "DMA",
     "numeric": "212",
-    "top_level_domain": "dm\n"
+    "top_level_domain": "dm"
   },
   "DO": {
     "country_name": "Dominican Republic (the)",
@@ -447,7 +447,7 @@
     "alpha2": "DO",
     "alpha3": "DOM",
     "numeric": "214",
-    "top_level_domain": "do\n"
+    "top_level_domain": "do"
   },
   "EC": {
     "country_name": "Ecuador",
@@ -456,7 +456,7 @@
     "alpha2": "EC",
     "alpha3": "ECU",
     "numeric": "218",
-    "top_level_domain": "ec\n"
+    "top_level_domain": "ec"
   },
   "EG": {
     "country_name": "Egypt",
@@ -465,7 +465,7 @@
     "alpha2": "EG",
     "alpha3": "EGY",
     "numeric": "818",
-    "top_level_domain": "eg\n"
+    "top_level_domain": "eg"
   },
   "SV": {
     "country_name": "El Salvador",
@@ -474,7 +474,7 @@
     "alpha2": "SV",
     "alpha3": "SLV",
     "numeric": "222",
-    "top_level_domain": "sv\n"
+    "top_level_domain": "sv"
   },
   "GQ": {
     "country_name": "Equatorial Guinea",
@@ -483,7 +483,7 @@
     "alpha2": "GQ",
     "alpha3": "GNQ",
     "numeric": "226",
-    "top_level_domain": "gq\n"
+    "top_level_domain": "gq"
   },
   "ER": {
     "country_name": "Eritrea",
@@ -492,7 +492,7 @@
     "alpha2": "ER",
     "alpha3": "ERI",
     "numeric": "232",
-    "top_level_domain": "er\n"
+    "top_level_domain": "er"
   },
   "EE": {
     "country_name": "Estonia",
@@ -501,7 +501,7 @@
     "alpha2": "EE",
     "alpha3": "EST",
     "numeric": "233",
-    "top_level_domain": "ee\n"
+    "top_level_domain": "ee"
   },
   "SZ": {
     "country_name": "Eswatini",
@@ -510,7 +510,7 @@
     "alpha2": "SZ",
     "alpha3": "SWZ",
     "numeric": "748",
-    "top_level_domain": "sz\n"
+    "top_level_domain": "sz"
   },
   "ET": {
     "country_name": "Ethiopia",
@@ -519,7 +519,7 @@
     "alpha2": "ET",
     "alpha3": "ETH",
     "numeric": "231",
-    "top_level_domain": "et\n"
+    "top_level_domain": "et"
   },
   "FJ": {
     "country_name": "Fiji",
@@ -528,7 +528,7 @@
     "alpha2": "FJ",
     "alpha3": "FJI",
     "numeric": "242",
-    "top_level_domain": "fj\n"
+    "top_level_domain": "fj"
   },
   "FI": {
     "country_name": "Finland",
@@ -537,7 +537,7 @@
     "alpha2": "FI",
     "alpha3": "FIN",
     "numeric": "246",
-    "top_level_domain": "fi\n"
+    "top_level_domain": "fi"
   },
   "FR": {
     "country_name": "France",
@@ -546,7 +546,7 @@
     "alpha2": "FR",
     "alpha3": "FRA",
     "numeric": "250",
-    "top_level_domain": "fr\n"
+    "top_level_domain": "fr"
   },
   "GA": {
     "country_name": "Gabon",
@@ -555,7 +555,7 @@
     "alpha2": "GA",
     "alpha3": "GAB",
     "numeric": "266",
-    "top_level_domain": "ga\n"
+    "top_level_domain": "ga"
   },
   "GM": {
     "country_name": "Gambia (the)",
@@ -564,7 +564,7 @@
     "alpha2": "GM",
     "alpha3": "GMB",
     "numeric": "270",
-    "top_level_domain": "gm\n"
+    "top_level_domain": "gm"
   },
   "GE": {
     "country_name": "Georgia",
@@ -573,7 +573,7 @@
     "alpha2": "GE",
     "alpha3": "GEO",
     "numeric": "268",
-    "top_level_domain": "ge\n"
+    "top_level_domain": "ge"
   },
   "DE": {
     "country_name": "Germany",
@@ -582,7 +582,7 @@
     "alpha2": "DE",
     "alpha3": "DEU",
     "numeric": "276",
-    "top_level_domain": "de\n"
+    "top_level_domain": "de"
   },
   "GH": {
     "country_name": "Ghana",
@@ -591,7 +591,7 @@
     "alpha2": "GH",
     "alpha3": "GHA",
     "numeric": "288",
-    "top_level_domain": "gh\n"
+    "top_level_domain": "gh"
   },
   "GR": {
     "country_name": "Greece",
@@ -600,7 +600,7 @@
     "alpha2": "GR",
     "alpha3": "GRC",
     "numeric": "300",
-    "top_level_domain": "gr\n"
+    "top_level_domain": "gr"
   },
   "GD": {
     "country_name": "Grenada",
@@ -609,7 +609,7 @@
     "alpha2": "GD",
     "alpha3": "GRD",
     "numeric": "308",
-    "top_level_domain": "gd\n"
+    "top_level_domain": "gd"
   },
   "GT": {
     "country_name": "Guatemala",
@@ -618,7 +618,7 @@
     "alpha2": "GT",
     "alpha3": "GTM",
     "numeric": "320",
-    "top_level_domain": "gt\n"
+    "top_level_domain": "gt"
   },
   "GN": {
     "country_name": "Guinea",
@@ -627,7 +627,7 @@
     "alpha2": "GN",
     "alpha3": "GIN",
     "numeric": "324",
-    "top_level_domain": "gn\n"
+    "top_level_domain": "gn"
   },
   "GW": {
     "country_name": "Guinea-Bissau",
@@ -636,7 +636,7 @@
     "alpha2": "GW",
     "alpha3": "GNB",
     "numeric": "624",
-    "top_level_domain": "gw\n"
+    "top_level_domain": "gw"
   },
   "GY": {
     "country_name": "Guyana",
@@ -645,7 +645,7 @@
     "alpha2": "GY",
     "alpha3": "GUY",
     "numeric": "328",
-    "top_level_domain": "gy\n"
+    "top_level_domain": "gy"
   },
   "HT": {
     "country_name": "Haiti",
@@ -654,7 +654,7 @@
     "alpha2": "HT",
     "alpha3": "HTI",
     "numeric": "332",
-    "top_level_domain": "ht\n"
+    "top_level_domain": "ht"
   },
   "HN": {
     "country_name": "Honduras",
@@ -663,7 +663,7 @@
     "alpha2": "HN",
     "alpha3": "HND",
     "numeric": "340",
-    "top_level_domain": "hn\n"
+    "top_level_domain": "hn"
   },
   "HU": {
     "country_name": "Hungary",
@@ -672,7 +672,7 @@
     "alpha2": "HU",
     "alpha3": "HUN",
     "numeric": "348",
-    "top_level_domain": "hu\n"
+    "top_level_domain": "hu"
   },
   "IS": {
     "country_name": "Iceland",
@@ -681,7 +681,7 @@
     "alpha2": "IS",
     "alpha3": "ISL",
     "numeric": "352",
-    "top_level_domain": "is\n"
+    "top_level_domain": "is"
   },
   "IN": {
     "country_name": "India",
@@ -690,7 +690,7 @@
     "alpha2": "IN",
     "alpha3": "IND",
     "numeric": "356",
-    "top_level_domain": "in\n"
+    "top_level_domain": "in"
   },
   "ID": {
     "country_name": "Indonesia",
@@ -699,7 +699,7 @@
     "alpha2": "ID",
     "alpha3": "IDN",
     "numeric": "360",
-    "top_level_domain": "id\n"
+    "top_level_domain": "id"
   },
   "IR": {
     "country_name": "Iran (Islamic Republic of)",
@@ -708,7 +708,7 @@
     "alpha2": "IR",
     "alpha3": "IRN",
     "numeric": "364",
-    "top_level_domain": "ir\n"
+    "top_level_domain": "ir"
   },
   "IQ": {
     "country_name": "Iraq",
@@ -717,7 +717,7 @@
     "alpha2": "IQ",
     "alpha3": "IRQ",
     "numeric": "368",
-    "top_level_domain": "iq\n"
+    "top_level_domain": "iq"
   },
   "IE": {
     "country_name": "Ireland",
@@ -726,7 +726,7 @@
     "alpha2": "IE",
     "alpha3": "IRL",
     "numeric": "372",
-    "top_level_domain": "ie\n"
+    "top_level_domain": "ie"
   },
   "IL": {
     "country_name": "Israel",
@@ -735,7 +735,7 @@
     "alpha2": "IL",
     "alpha3": "ISR",
     "numeric": "376",
-    "top_level_domain": "il\n"
+    "top_level_domain": "il"
   },
   "IT": {
     "country_name": "Italy",
@@ -744,7 +744,7 @@
     "alpha2": "IT",
     "alpha3": "ITA",
     "numeric": "380",
-    "top_level_domain": "it\n"
+    "top_level_domain": "it"
   },
   "JM": {
     "country_name": "Jamaica",
@@ -753,7 +753,7 @@
     "alpha2": "JM",
     "alpha3": "JAM",
     "numeric": "388",
-    "top_level_domain": "jm\n"
+    "top_level_domain": "jm"
   },
   "JP": {
     "country_name": "Japan",
@@ -762,7 +762,7 @@
     "alpha2": "JP",
     "alpha3": "JPN",
     "numeric": "392",
-    "top_level_domain": "jp\n"
+    "top_level_domain": "jp"
   },
   "JO": {
     "country_name": "Jordan",
@@ -771,7 +771,7 @@
     "alpha2": "JO",
     "alpha3": "JOR",
     "numeric": "400",
-    "top_level_domain": "jo\n"
+    "top_level_domain": "jo"
   },
   "KZ": {
     "country_name": "Kazakhstan",
@@ -780,7 +780,7 @@
     "alpha2": "KZ",
     "alpha3": "KAZ",
     "numeric": "398",
-    "top_level_domain": "kz\n"
+    "top_level_domain": "kz"
   },
   "KE": {
     "country_name": "Kenya",
@@ -789,7 +789,7 @@
     "alpha2": "KE",
     "alpha3": "KEN",
     "numeric": "404",
-    "top_level_domain": "ke\n"
+    "top_level_domain": "ke"
   },
   "KI": {
     "country_name": "Kiribati",
@@ -798,7 +798,7 @@
     "alpha2": "KI",
     "alpha3": "KIR",
     "numeric": "296",
-    "top_level_domain": "ki\n"
+    "top_level_domain": "ki"
   },
   "KP": {
     "country_name": "Korea (the Democratic People's Republic of)",
@@ -807,7 +807,7 @@
     "alpha2": "KP",
     "alpha3": "PRK",
     "numeric": "408",
-    "top_level_domain": "kp\n"
+    "top_level_domain": "kp"
   },
   "KR": {
     "country_name": "Korea (the Republic of)",
@@ -816,7 +816,7 @@
     "alpha2": "KR",
     "alpha3": "KOR",
     "numeric": "410",
-    "top_level_domain": "kr\n"
+    "top_level_domain": "kr"
   },
   "KW": {
     "country_name": "Kuwait",
@@ -825,7 +825,7 @@
     "alpha2": "KW",
     "alpha3": "KWT",
     "numeric": "414",
-    "top_level_domain": "kw\n"
+    "top_level_domain": "kw"
   },
   "KG": {
     "country_name": "Kyrgyzstan",
@@ -834,7 +834,7 @@
     "alpha2": "KG",
     "alpha3": "KGZ",
     "numeric": "417",
-    "top_level_domain": "kg\n"
+    "top_level_domain": "kg"
   },
   "LA": {
     "country_name": "Lao People's Democratic Republic (the)",
@@ -843,7 +843,7 @@
     "alpha2": "LA",
     "alpha3": "LAO",
     "numeric": "418",
-    "top_level_domain": "la\n"
+    "top_level_domain": "la"
   },
   "LV": {
     "country_name": "Latvia",
@@ -852,7 +852,7 @@
     "alpha2": "LV",
     "alpha3": "LVA",
     "numeric": "428",
-    "top_level_domain": "lv\n"
+    "top_level_domain": "lv"
   },
   "LB": {
     "country_name": "Lebanon",
@@ -861,7 +861,7 @@
     "alpha2": "LB",
     "alpha3": "LBN",
     "numeric": "422",
-    "top_level_domain": "lb\n"
+    "top_level_domain": "lb"
   },
   "LS": {
     "country_name": "Lesotho",
@@ -870,7 +870,7 @@
     "alpha2": "LS",
     "alpha3": "LSO",
     "numeric": "426",
-    "top_level_domain": "ls\n"
+    "top_level_domain": "ls"
   },
   "LR": {
     "country_name": "Liberia",
@@ -879,7 +879,7 @@
     "alpha2": "LR",
     "alpha3": "LBR",
     "numeric": "430",
-    "top_level_domain": "lr\n"
+    "top_level_domain": "lr"
   },
   "LY": {
     "country_name": "Libya",
@@ -888,7 +888,7 @@
     "alpha2": "LY",
     "alpha3": "LBY",
     "numeric": "434",
-    "top_level_domain": "ly\n"
+    "top_level_domain": "ly"
   },
   "LI": {
     "country_name": "Liechtenstein",
@@ -897,7 +897,7 @@
     "alpha2": "LI",
     "alpha3": "LIE",
     "numeric": "438",
-    "top_level_domain": "li\n"
+    "top_level_domain": "li"
   },
   "LT": {
     "country_name": "Lithuania",
@@ -906,7 +906,7 @@
     "alpha2": "LT",
     "alpha3": "LTU",
     "numeric": "440",
-    "top_level_domain": "lt\n"
+    "top_level_domain": "lt"
   },
   "LU": {
     "country_name": "Luxembourg",
@@ -915,7 +915,7 @@
     "alpha2": "LU",
     "alpha3": "LUX",
     "numeric": "442",
-    "top_level_domain": "lu\n"
+    "top_level_domain": "lu"
   },
   "MK": {
     "country_name": "North Macedonia",
@@ -924,7 +924,7 @@
     "alpha2": "MK",
     "alpha3": "MKD",
     "numeric": "807",
-    "top_level_domain": "mk\n"
+    "top_level_domain": "mk"
   },
   "MG": {
     "country_name": "Madagascar",
@@ -933,7 +933,7 @@
     "alpha2": "MG",
     "alpha3": "MDG",
     "numeric": "450",
-    "top_level_domain": "mg\n"
+    "top_level_domain": "mg"
   },
   "MW": {
     "country_name": "Malawi",
@@ -942,7 +942,7 @@
     "alpha2": "MW",
     "alpha3": "MWI",
     "numeric": "454",
-    "top_level_domain": "mw\n"
+    "top_level_domain": "mw"
   },
   "MY": {
     "country_name": "Malaysia",
@@ -951,7 +951,7 @@
     "alpha2": "MY",
     "alpha3": "MYS",
     "numeric": "458",
-    "top_level_domain": "my\n"
+    "top_level_domain": "my"
   },
   "MV": {
     "country_name": "Maldives",
@@ -960,7 +960,7 @@
     "alpha2": "MV",
     "alpha3": "MDV",
     "numeric": "462",
-    "top_level_domain": "mv\n"
+    "top_level_domain": "mv"
   },
   "ML": {
     "country_name": "Mali",
@@ -969,7 +969,7 @@
     "alpha2": "ML",
     "alpha3": "MLI",
     "numeric": "466",
-    "top_level_domain": "ml\n"
+    "top_level_domain": "ml"
   },
   "MT": {
     "country_name": "Malta",
@@ -978,7 +978,7 @@
     "alpha2": "MT",
     "alpha3": "MLT",
     "numeric": "470",
-    "top_level_domain": "mt\n"
+    "top_level_domain": "mt"
   },
   "MH": {
     "country_name": "Marshall Islands (the)",
@@ -987,7 +987,7 @@
     "alpha2": "MH",
     "alpha3": "MHL",
     "numeric": "584",
-    "top_level_domain": "mh\n"
+    "top_level_domain": "mh"
   },
   "MR": {
     "country_name": "Mauritania",
@@ -996,7 +996,7 @@
     "alpha2": "MR",
     "alpha3": "MRT",
     "numeric": "478",
-    "top_level_domain": "mr\n"
+    "top_level_domain": "mr"
   },
   "MU": {
     "country_name": "Mauritius",
@@ -1005,7 +1005,7 @@
     "alpha2": "MU",
     "alpha3": "MUS",
     "numeric": "480",
-    "top_level_domain": "mu\n"
+    "top_level_domain": "mu"
   },
   "MX": {
     "country_name": "Mexico",
@@ -1014,7 +1014,7 @@
     "alpha2": "MX",
     "alpha3": "MEX",
     "numeric": "484",
-    "top_level_domain": "mx\n"
+    "top_level_domain": "mx"
   },
   "FM": {
     "country_name": "Micronesia (Federated States of)",
@@ -1023,7 +1023,7 @@
     "alpha2": "FM",
     "alpha3": "FSM",
     "numeric": "583",
-    "top_level_domain": "fm\n"
+    "top_level_domain": "fm"
   },
   "MD": {
     "country_name": "Moldova (the Republic of)",
@@ -1032,7 +1032,7 @@
     "alpha2": "MD",
     "alpha3": "MDA",
     "numeric": "498",
-    "top_level_domain": "md\n"
+    "top_level_domain": "md"
   },
   "MC": {
     "country_name": "Monaco",
@@ -1041,7 +1041,7 @@
     "alpha2": "MC",
     "alpha3": "MCO",
     "numeric": "492",
-    "top_level_domain": "mc\n"
+    "top_level_domain": "mc"
   },
   "MN": {
     "country_name": "Mongolia",
@@ -1050,7 +1050,7 @@
     "alpha2": "MN",
     "alpha3": "MNG",
     "numeric": "496",
-    "top_level_domain": "mn\n"
+    "top_level_domain": "mn"
   },
   "ME": {
     "country_name": "Montenegro",
@@ -1059,7 +1059,7 @@
     "alpha2": "ME",
     "alpha3": "MNE",
     "numeric": "499",
-    "top_level_domain": "me\n"
+    "top_level_domain": "me"
   },
   "MA": {
     "country_name": "Morocco",
@@ -1068,7 +1068,7 @@
     "alpha2": "MA",
     "alpha3": "MAR",
     "numeric": "504",
-    "top_level_domain": "ma\n"
+    "top_level_domain": "ma"
   },
   "MZ": {
     "country_name": "Mozambique",
@@ -1077,7 +1077,7 @@
     "alpha2": "MZ",
     "alpha3": "MOZ",
     "numeric": "508",
-    "top_level_domain": "mz\n"
+    "top_level_domain": "mz"
   },
   "MM": {
     "country_name": "Myanmar",
@@ -1086,7 +1086,7 @@
     "alpha2": "MM",
     "alpha3": "MMR",
     "numeric": "104",
-    "top_level_domain": "mm\n"
+    "top_level_domain": "mm"
   },
   "NA": {
     "country_name": "Namibia",
@@ -1095,7 +1095,7 @@
     "alpha2": "NA",
     "alpha3": "NAM",
     "numeric": "516",
-    "top_level_domain": "na\n"
+    "top_level_domain": "na"
   },
   "NR": {
     "country_name": "Nauru",
@@ -1104,7 +1104,7 @@
     "alpha2": "NR",
     "alpha3": "NRU",
     "numeric": "520",
-    "top_level_domain": "nr\n"
+    "top_level_domain": "nr"
   },
   "NP": {
     "country_name": "Nepal",
@@ -1113,7 +1113,7 @@
     "alpha2": "NP",
     "alpha3": "NPL",
     "numeric": "524",
-    "top_level_domain": "np\n"
+    "top_level_domain": "np"
   },
   "NL": {
     "country_name": "Netherlands (the)",
@@ -1122,7 +1122,7 @@
     "alpha2": "NL",
     "alpha3": "NLD",
     "numeric": "528",
-    "top_level_domain": "nl\n"
+    "top_level_domain": "nl"
   },
   "NZ": {
     "country_name": "New Zealand",
@@ -1131,7 +1131,7 @@
     "alpha2": "NZ",
     "alpha3": "NZL",
     "numeric": "554",
-    "top_level_domain": "nz\n"
+    "top_level_domain": "nz"
   },
   "NI": {
     "country_name": "Nicaragua",
@@ -1140,7 +1140,7 @@
     "alpha2": "NI",
     "alpha3": "NIC",
     "numeric": "558",
-    "top_level_domain": "ni\n"
+    "top_level_domain": "ni"
   },
   "NE": {
     "country_name": "Niger (the)",
@@ -1149,7 +1149,7 @@
     "alpha2": "NE",
     "alpha3": "NER",
     "numeric": "562",
-    "top_level_domain": "ne\n"
+    "top_level_domain": "ne"
   },
   "NG": {
     "country_name": "Nigeria",
@@ -1158,7 +1158,7 @@
     "alpha2": "NG",
     "alpha3": "NGA",
     "numeric": "566",
-    "top_level_domain": "ng\n"
+    "top_level_domain": "ng"
   },
   "NO": {
     "country_name": "Norway",
@@ -1167,7 +1167,7 @@
     "alpha2": "NO",
     "alpha3": "NOR",
     "numeric": "578",
-    "top_level_domain": "no\n"
+    "top_level_domain": "no"
   },
   "OM": {
     "country_name": "Oman",
@@ -1176,7 +1176,7 @@
     "alpha2": "OM",
     "alpha3": "OMN",
     "numeric": "512",
-    "top_level_domain": "om\n"
+    "top_level_domain": "om"
   },
   "PK": {
     "country_name": "Pakistan",
@@ -1185,7 +1185,7 @@
     "alpha2": "PK",
     "alpha3": "PAK",
     "numeric": "586",
-    "top_level_domain": "pk\n"
+    "top_level_domain": "pk"
   },
   "PW": {
     "country_name": "Palau",
@@ -1194,7 +1194,7 @@
     "alpha2": "PW",
     "alpha3": "PLW",
     "numeric": "585",
-    "top_level_domain": "pw\n"
+    "top_level_domain": "pw"
   },
   "PA": {
     "country_name": "Panama",
@@ -1203,7 +1203,7 @@
     "alpha2": "PA",
     "alpha3": "PAN",
     "numeric": "591",
-    "top_level_domain": "pa\n"
+    "top_level_domain": "pa"
   },
   "PG": {
     "country_name": "Papua New Guinea",
@@ -1212,7 +1212,7 @@
     "alpha2": "PG",
     "alpha3": "PNG",
     "numeric": "598",
-    "top_level_domain": "pg\n"
+    "top_level_domain": "pg"
   },
   "PY": {
     "country_name": "Paraguay",
@@ -1221,7 +1221,7 @@
     "alpha2": "PY",
     "alpha3": "PRY",
     "numeric": "600",
-    "top_level_domain": "py\n"
+    "top_level_domain": "py"
   },
   "PE": {
     "country_name": "Peru",
@@ -1230,7 +1230,7 @@
     "alpha2": "PE",
     "alpha3": "PER",
     "numeric": "604",
-    "top_level_domain": "pe\n"
+    "top_level_domain": "pe"
   },
   "PH": {
     "country_name": "Philippines (the)",
@@ -1239,7 +1239,7 @@
     "alpha2": "PH",
     "alpha3": "PHL",
     "numeric": "608",
-    "top_level_domain": "ph\n"
+    "top_level_domain": "ph"
   },
   "PL": {
     "country_name": "Poland",
@@ -1248,7 +1248,7 @@
     "alpha2": "PL",
     "alpha3": "POL",
     "numeric": "616",
-    "top_level_domain": "pl\n"
+    "top_level_domain": "pl"
   },
   "PT": {
     "country_name": "Portugal",
@@ -1257,7 +1257,7 @@
     "alpha2": "PT",
     "alpha3": "PRT",
     "numeric": "620",
-    "top_level_domain": "pt\n"
+    "top_level_domain": "pt"
   },
   "QA": {
     "country_name": "Qatar",
@@ -1266,7 +1266,7 @@
     "alpha2": "QA",
     "alpha3": "QAT",
     "numeric": "634",
-    "top_level_domain": "qa\n"
+    "top_level_domain": "qa"
   },
   "RO": {
     "country_name": "Romania",
@@ -1275,7 +1275,7 @@
     "alpha2": "RO",
     "alpha3": "ROU",
     "numeric": "642",
-    "top_level_domain": "ro\n"
+    "top_level_domain": "ro"
   },
   "RU": {
     "country_name": "Russian Federation (the)",
@@ -1284,7 +1284,7 @@
     "alpha2": "RU",
     "alpha3": "RUS",
     "numeric": "643",
-    "top_level_domain": "ru\n"
+    "top_level_domain": "ru"
   },
   "RW": {
     "country_name": "Rwanda",
@@ -1293,7 +1293,7 @@
     "alpha2": "RW",
     "alpha3": "RWA",
     "numeric": "646",
-    "top_level_domain": "rw\n"
+    "top_level_domain": "rw"
   },
   "KN": {
     "country_name": "Saint Kitts and Nevis",
@@ -1302,7 +1302,7 @@
     "alpha2": "KN",
     "alpha3": "KNA",
     "numeric": "659",
-    "top_level_domain": "kn\n"
+    "top_level_domain": "kn"
   },
   "LC": {
     "country_name": "Saint Lucia",
@@ -1311,7 +1311,7 @@
     "alpha2": "LC",
     "alpha3": "LCA",
     "numeric": "662",
-    "top_level_domain": "lc\n"
+    "top_level_domain": "lc"
   },
   "VC": {
     "country_name": "Saint Vincent and the Grenadines",
@@ -1320,7 +1320,7 @@
     "alpha2": "VC",
     "alpha3": "VCT",
     "numeric": "670",
-    "top_level_domain": "vc\n"
+    "top_level_domain": "vc"
   },
   "WS": {
     "country_name": "Samoa",
@@ -1329,7 +1329,7 @@
     "alpha2": "WS",
     "alpha3": "WSM",
     "numeric": "882",
-    "top_level_domain": "ws\n"
+    "top_level_domain": "ws"
   },
   "SM": {
     "country_name": "San Marino",
@@ -1338,7 +1338,7 @@
     "alpha2": "SM",
     "alpha3": "SMR",
     "numeric": "674",
-    "top_level_domain": "sm\n"
+    "top_level_domain": "sm"
   },
   "ST": {
     "country_name": "Sao Tome and Principe",
@@ -1347,7 +1347,7 @@
     "alpha2": "ST",
     "alpha3": "STP",
     "numeric": "678",
-    "top_level_domain": "st\n"
+    "top_level_domain": "st"
   },
   "SA": {
     "country_name": "Saudi Arabia",
@@ -1356,7 +1356,7 @@
     "alpha2": "SA",
     "alpha3": "SAU",
     "numeric": "682",
-    "top_level_domain": "sa\n"
+    "top_level_domain": "sa"
   },
   "SN": {
     "country_name": "Senegal",
@@ -1365,7 +1365,7 @@
     "alpha2": "SN",
     "alpha3": "SEN",
     "numeric": "686",
-    "top_level_domain": "sn\n"
+    "top_level_domain": "sn"
   },
   "RS": {
     "country_name": "Serbia",
@@ -1374,7 +1374,7 @@
     "alpha2": "RS",
     "alpha3": "SRB",
     "numeric": "688",
-    "top_level_domain": "rs\n"
+    "top_level_domain": "rs"
   },
   "SC": {
     "country_name": "Seychelles",
@@ -1383,7 +1383,7 @@
     "alpha2": "SC",
     "alpha3": "SYC",
     "numeric": "690",
-    "top_level_domain": "sc\n"
+    "top_level_domain": "sc"
   },
   "SL": {
     "country_name": "Sierra Leone",
@@ -1392,7 +1392,7 @@
     "alpha2": "SL",
     "alpha3": "SLE",
     "numeric": "694",
-    "top_level_domain": "sl\n"
+    "top_level_domain": "sl"
   },
   "SG": {
     "country_name": "Singapore",
@@ -1401,7 +1401,7 @@
     "alpha2": "SG",
     "alpha3": "SGP",
     "numeric": "702",
-    "top_level_domain": "sg\n"
+    "top_level_domain": "sg"
   },
   "SK": {
     "country_name": "Slovakia",
@@ -1410,7 +1410,7 @@
     "alpha2": "SK",
     "alpha3": "SVK",
     "numeric": "703",
-    "top_level_domain": "sk\n"
+    "top_level_domain": "sk"
   },
   "SI": {
     "country_name": "Slovenia",
@@ -1419,7 +1419,7 @@
     "alpha2": "SI",
     "alpha3": "SVN",
     "numeric": "705",
-    "top_level_domain": "si\n"
+    "top_level_domain": "si"
   },
   "SB": {
     "country_name": "Solomon Islands",
@@ -1428,7 +1428,7 @@
     "alpha2": "SB",
     "alpha3": "SLB",
     "numeric": "090",
-    "top_level_domain": "sb\n"
+    "top_level_domain": "sb"
   },
   "SO": {
     "country_name": "Somalia",
@@ -1437,7 +1437,7 @@
     "alpha2": "SO",
     "alpha3": "SOM",
     "numeric": "706",
-    "top_level_domain": "so\n"
+    "top_level_domain": "so"
   },
   "ZA": {
     "country_name": "South Africa",
@@ -1446,7 +1446,7 @@
     "alpha2": "ZA",
     "alpha3": "ZAF",
     "numeric": "710",
-    "top_level_domain": "za\n"
+    "top_level_domain": "za"
   },
   "SS": {
     "country_name": "South Sudan",
@@ -1455,7 +1455,7 @@
     "alpha2": "SS",
     "alpha3": "SSD",
     "numeric": "728",
-    "top_level_domain": "ss\n"
+    "top_level_domain": "ss"
   },
   "ES": {
     "country_name": "Spain",
@@ -1464,7 +1464,7 @@
     "alpha2": "ES",
     "alpha3": "ESP",
     "numeric": "724",
-    "top_level_domain": "es\n"
+    "top_level_domain": "es"
   },
   "LK": {
     "country_name": "Sri Lanka",
@@ -1473,7 +1473,7 @@
     "alpha2": "LK",
     "alpha3": "LKA",
     "numeric": "144",
-    "top_level_domain": "lk\n"
+    "top_level_domain": "lk"
   },
   "SD": {
     "country_name": "Sudan (the)",
@@ -1482,7 +1482,7 @@
     "alpha2": "SD",
     "alpha3": "SDN",
     "numeric": "729",
-    "top_level_domain": "sd\n"
+    "top_level_domain": "sd"
   },
   "SR": {
     "country_name": "Suriname",
@@ -1491,7 +1491,7 @@
     "alpha2": "SR",
     "alpha3": "SUR",
     "numeric": "740",
-    "top_level_domain": "sr\n"
+    "top_level_domain": "sr"
   },
   "SE": {
     "country_name": "Sweden",
@@ -1500,7 +1500,7 @@
     "alpha2": "SE",
     "alpha3": "SWE",
     "numeric": "752",
-    "top_level_domain": "se\n"
+    "top_level_domain": "se"
   },
   "CH": {
     "country_name": "Switzerland",
@@ -1509,7 +1509,7 @@
     "alpha2": "CH",
     "alpha3": "CHE",
     "numeric": "756",
-    "top_level_domain": "ch\n"
+    "top_level_domain": "ch"
   },
   "SY": {
     "country_name": "Syrian Arab Republic (the)",
@@ -1518,7 +1518,7 @@
     "alpha2": "SY",
     "alpha3": "SYR",
     "numeric": "760",
-    "top_level_domain": "sy\n"
+    "top_level_domain": "sy"
   },
   "TJ": {
     "country_name": "Tajikistan",
@@ -1527,7 +1527,7 @@
     "alpha2": "TJ",
     "alpha3": "TJK",
     "numeric": "762",
-    "top_level_domain": "tj\n"
+    "top_level_domain": "tj"
   },
   "TZ": {
     "country_name": "Tanzania, the United Republic of",
@@ -1536,7 +1536,7 @@
     "alpha2": "TZ",
     "alpha3": "TZA",
     "numeric": "834",
-    "top_level_domain": "tz\n"
+    "top_level_domain": "tz"
   },
   "TH": {
     "country_name": "Thailand",
@@ -1545,7 +1545,7 @@
     "alpha2": "TH",
     "alpha3": "THA",
     "numeric": "764",
-    "top_level_domain": "th\n"
+    "top_level_domain": "th"
   },
   "TL": {
     "country_name": "Timor-Leste",
@@ -1554,7 +1554,7 @@
     "alpha2": "TL",
     "alpha3": "TLS",
     "numeric": "626",
-    "top_level_domain": "tl\n"
+    "top_level_domain": "tl"
   },
   "TG": {
     "country_name": "Togo",
@@ -1563,7 +1563,7 @@
     "alpha2": "TG",
     "alpha3": "TGO",
     "numeric": "768",
-    "top_level_domain": "tg\n"
+    "top_level_domain": "tg"
   },
   "TO": {
     "country_name": "Tonga",
@@ -1572,7 +1572,7 @@
     "alpha2": "TO",
     "alpha3": "TON",
     "numeric": "776",
-    "top_level_domain": "to\n"
+    "top_level_domain": "to"
   },
   "TT": {
     "country_name": "Trinidad and Tobago",
@@ -1581,7 +1581,7 @@
     "alpha2": "TT",
     "alpha3": "TTO",
     "numeric": "780",
-    "top_level_domain": "tt\n"
+    "top_level_domain": "tt"
   },
   "TN": {
     "country_name": "Tunisia",
@@ -1590,7 +1590,7 @@
     "alpha2": "TN",
     "alpha3": "TUN",
     "numeric": "788",
-    "top_level_domain": "tn\n"
+    "top_level_domain": "tn"
   },
   "TR": {
     "country_name": "Turkey",
@@ -1599,7 +1599,7 @@
     "alpha2": "TR",
     "alpha3": "TUR",
     "numeric": "792",
-    "top_level_domain": "tr\n"
+    "top_level_domain": "tr"
   },
   "TM": {
     "country_name": "Turkmenistan",
@@ -1608,7 +1608,7 @@
     "alpha2": "TM",
     "alpha3": "TKM",
     "numeric": "795",
-    "top_level_domain": "tm\n"
+    "top_level_domain": "tm"
   },
   "TV": {
     "country_name": "Tuvalu",
@@ -1617,7 +1617,7 @@
     "alpha2": "TV",
     "alpha3": "TUV",
     "numeric": "798",
-    "top_level_domain": "tv\n"
+    "top_level_domain": "tv"
   },
   "UG": {
     "country_name": "Uganda",
@@ -1626,7 +1626,7 @@
     "alpha2": "UG",
     "alpha3": "UGA",
     "numeric": "800",
-    "top_level_domain": "ug\n"
+    "top_level_domain": "ug"
   },
   "UA": {
     "country_name": "Ukraine",
@@ -1635,7 +1635,7 @@
     "alpha2": "UA",
     "alpha3": "UKR",
     "numeric": "804",
-    "top_level_domain": "ua\n"
+    "top_level_domain": "ua"
   },
   "AE": {
     "country_name": "United Arab Emirates (the)",
@@ -1644,7 +1644,7 @@
     "alpha2": "AE",
     "alpha3": "ARE",
     "numeric": "784",
-    "top_level_domain": "ae\n"
+    "top_level_domain": "ae"
   },
   "GB": {
     "country_name": "United Kingdom of Great Britain and Northern Ireland (the)",
@@ -1653,7 +1653,7 @@
     "alpha2": "GB",
     "alpha3": "GBR",
     "numeric": "826",
-    "top_level_domain": "gb .uk\u200a[ab]\n"
+    "top_level_domain": "uk"
   },
   "US": {
     "country_name": "United States of America (the)",
@@ -1662,7 +1662,7 @@
     "alpha2": "US",
     "alpha3": "USA",
     "numeric": "840",
-    "top_level_domain": "us\n"
+    "top_level_domain": "us"
   },
   "UY": {
     "country_name": "Uruguay",
@@ -1671,7 +1671,7 @@
     "alpha2": "UY",
     "alpha3": "URY",
     "numeric": "858",
-    "top_level_domain": "uy\n"
+    "top_level_domain": "uy"
   },
   "UZ": {
     "country_name": "Uzbekistan",
@@ -1680,7 +1680,7 @@
     "alpha2": "UZ",
     "alpha3": "UZB",
     "numeric": "860",
-    "top_level_domain": "uz\n"
+    "top_level_domain": "uz"
   },
   "VU": {
     "country_name": "Vanuatu",
@@ -1689,7 +1689,7 @@
     "alpha2": "VU",
     "alpha3": "VUT",
     "numeric": "548",
-    "top_level_domain": "vu\n"
+    "top_level_domain": "vu"
   },
   "VE": {
     "country_name": "Venezuela (Bolivarian Republic of)",
@@ -1698,7 +1698,7 @@
     "alpha2": "VE",
     "alpha3": "VEN",
     "numeric": "862",
-    "top_level_domain": "ve\n"
+    "top_level_domain": "ve"
   },
   "VN": {
     "country_name": "Viet Nam",
@@ -1707,7 +1707,7 @@
     "alpha2": "VN",
     "alpha3": "VNM",
     "numeric": "704",
-    "top_level_domain": "vn\n"
+    "top_level_domain": "vn"
   },
   "YE": {
     "country_name": "Yemen",
@@ -1716,7 +1716,7 @@
     "alpha2": "YE",
     "alpha3": "YEM",
     "numeric": "887",
-    "top_level_domain": "ye\n"
+    "top_level_domain": "ye"
   },
   "ZM": {
     "country_name": "Zambia",
@@ -1725,7 +1725,7 @@
     "alpha2": "ZM",
     "alpha3": "ZMB",
     "numeric": "894",
-    "top_level_domain": "zm\n"
+    "top_level_domain": "zm"
   },
   "ZW": {
     "country_name": "Zimbabwe",
@@ -1734,6 +1734,6 @@
     "alpha2": "ZW",
     "alpha3": "ZWE",
     "numeric": "716",
-    "top_level_domain": "zw\n"
+    "top_level_domain": "zw"
   }
 }
